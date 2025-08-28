@@ -26,8 +26,7 @@
 
 <p align="center">
   <img src="https://github.com/NoelJustine/7OOP-PORTFOLIO/blob/main/MIDTERM/Lab1/image/step4.1.png" width="350" height="400"/>
-</p>
-<p align="center">
+  &nbsp;&nbsp;
   <img src="https://github.com/NoelJustine/7OOP-PORTFOLIO/blob/main/MIDTERM/Lab1/image/step4.2.png" width="350" height="400"/>
 </p>
 
