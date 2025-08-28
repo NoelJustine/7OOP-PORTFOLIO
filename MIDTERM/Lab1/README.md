@@ -7,28 +7,28 @@
 ## **STEP 1.** IDENTIFY all the necessary OBJECT within the problem domain  
 
 <p align="center">
-  <img src= "https://github.com/NoelJustine/7OOP-PORTFOLIO/blob/main/MIDTERM%2FLab1%2Fimage%2Fstep1.png" width="400" height="200"/>
+  <img src= "https://github.com/NoelJustine/7OOP-PORTFOLIO/blob/main/MIDTERM/Lab1/image/step1.png" width="400" height="200"/>
 </p>
 
 ## **STEP 2.** IDENTIFY all the properties and methods/behaviors in the problem statement
 
 <p align="center">
-  <img src="MIDTERM/Lab1/image/step2.png" width="400" height="400"/>
+  <img src="https://github.com/NoelJustine/7OOP-PORTFOLIO/blob/main/MIDTERM/Lab1/image/step2.png" width="400" height="400"/>
 </p>
 
 ## **STEP 3.** Design the MODEL using a Class Diagram (You may use draw.io to represent the Blueprint of all the class that you need to create)  
 
 <p align="center">
-  <img src="MIDTERM/Lab1/image/step3.png" width="400" height="400"/>
+  <img src="https://github.com/NoelJustine/7OOP-PORTFOLIO/blob/main/MIDTERM/Lab1/image/step3.png" width="400" height="400"/>
 </p>
 
 ## **STEP 4.** Implement the class using Java code construct of each interacting entities that you have identified.
 
 <p align="center">
-  <img src="MIDTERM/Lab1/image/step4.1.png" width="350" height="400"/>
+  <img src="https://github.com/NoelJustine/7OOP-PORTFOLIO/blob/main/MIDTERM/Lab1/image/step4.1.png" width="350" height="400"/>
 </p>
 <p align="center">
-  <img src="MIDTERM/Lab1/image/step4.2.png" width="350" height="400"/>
+  <img src="https://github.com/NoelJustine/7OOP-PORTFOLIO/blob/main/MIDTERM/Lab1/image/step4.2.png" width="350" height="400"/>
 </p>
 
 
