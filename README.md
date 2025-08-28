@@ -32,6 +32,8 @@ I finished my senior year at Angeles City National Trade School (ACNTS), taking 
 
 ###  MIDTERM  
 
+**LAB TASK 1:** [📂 Object Oriented Analysis](https://noeljustine.github.io/7OOP-PORTFOLIO/MIDTERM/Lab1/)
+
 --- 
 
 ##  Fun Fact About Me:  
