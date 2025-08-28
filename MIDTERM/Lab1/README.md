@@ -19,3 +19,11 @@
 <p align="center">
   <img src="MIDTERM/Lab1/image/step3.png" width="190" height="180"/>
 </p>
+
+## **STEP 4.** Implement the class using Java code construct of each interacting
+entities that you have identified.
+
+<p align="center">
+  <img src="MIDTERM/Lab1/image/step4.png" width="190" height="180"/>
+</p>
+
