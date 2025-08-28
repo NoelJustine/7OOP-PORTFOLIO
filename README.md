@@ -6,6 +6,7 @@ This collection of lab exercises showcases my journey through OOP—where I’ve
 ---
 
 ## ABOUT ME
+
 <p align="center">
   <img src="https://github.com/NoelJustine/7OOP-PORTFOLIO/blob/main/OOP/noel.jpg" width="190" height="180"/>
 </p>
