@@ -11,13 +11,13 @@
 ## **STEP 2.** IDENTIFY all the properties and methods/behaviors in the problem statement
 
 <p align="center">
-  <img src="MIDTERM/Lab1/image/step2.png" width="190" height="180"/>
+  <img src="MIDTERM/Lab1/image/step2.png" width="400" height="400"/>
 </p>
 
 ## **STEP 3.** Design the MODEL using a Class Diagram (You may use draw.io to represent the Blueprint of all the class that you need to create)  
 
 <p align="center">
-  <img src="MIDTERM/Lab1/image/step3.png" width="190" height="180"/>
+  <img src="MIDTERM/Lab1/image/step3.png" width="400" height="400"/>
 </p>
 
 ## **STEP 4.** Implement the class using Java code construct of each interacting entities that you have identified.
