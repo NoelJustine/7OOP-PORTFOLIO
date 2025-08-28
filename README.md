@@ -6,6 +6,10 @@ This collection of lab exercises showcases my journey through OOP—where I’ve
 ---
 
 ## ABOUT ME
+<p align="center">
+  <img src="https://github.com/NoelJustine/7OOP-PORTFOLIO/blob/main/OOP/noel.jpg" width="190" height="180"/>
+</p>
+
 Hello! I am **Noel Justine**, a 2nd-year college student of City College of Angeles, taking Bachelor of Science in Computer Science.  
 I finished my senior year at Angeles City National Trade School (ACNTS), taking the Technical Vocational Livelihood—Bread and Pastry Production & Food and Beverage Service.
 
