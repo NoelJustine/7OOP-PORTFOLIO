@@ -8,7 +8,7 @@ This collection of lab exercises showcases my journey through OOP—where I’ve
 ## ABOUT ME
 
 <p align="center">
-  <img src="https://github.com/NoelJustine/7OOP-PORTFOLIO/blob/main/OOP/noel.png" width="190" height="180"/>
+  <img src="OOP/noel.png" width="190" height="180"/>
 </p>
 
 Hello! I am **Noel Justine**, a 2nd-year college student of City College of Angeles, taking Bachelor of Science in Computer Science.  
