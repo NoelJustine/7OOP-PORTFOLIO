@@ -24,10 +24,10 @@
 
 ### **STEP 4.** Implement the class using Java code construct of each interacting entities that you have identified.
 
-<p align="central">
+<p align="center">
   <img src="MIDTERM/Lab1/image/step4.1.png" width="350" height="400"/>
 </p>
-<p align="central">
+<p align="center">
   <img src="MIDTERM/Lab1/image/step4.2.png" width="350" height="400"/>
 </p>
 
