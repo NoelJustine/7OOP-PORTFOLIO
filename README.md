@@ -20,7 +20,7 @@ I finished my senior year at Angeles City National Trade School (ACNTS), taking 
 
 ## Languages I used before 
 <p align="left"> 
-<img src="https://github.com/NoelJustine/7OOP-PORTFOLIO/blob/main/OOP/Java-Logo.png" height="50"/>  
+<img src="OOP/Java-Logo.png" height="50"/>  
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="50"/>
 &nbsp;&nbsp;
