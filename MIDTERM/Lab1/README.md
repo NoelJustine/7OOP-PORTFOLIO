@@ -10,3 +10,12 @@
 
 ## **STEP 2.** IDENTIFY all the properties and methods/behaviors in the problem statement
 
+<p align="center">
+  <img src="MIDTERM/Lab1/image/step2.png" width="190" height="180"/>
+</p>
+
+## **STEP 3.** Design the MODEL using a Class Diagram (You may use draw.io to represent the Blueprint of all the class that you need to create)  
+
+<p align="center">
+  <img src="MIDTERM/Lab1/image/step3.png" width="190" height="180"/>
+</p>
