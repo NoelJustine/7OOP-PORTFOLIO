@@ -6,7 +6,9 @@
 
 ### **STEP 1.** IDENTIFY all the necessary OBJECT within the problem domain  
 
-**OBJECTS**: PATIENT, ROOM, HOSPITAL
+<p align="center">
+  <img src="MIDTERM/Lab1/image/step1.png" width="400" height="200"/>
+</p>
 
 ### **STEP 2.** IDENTIFY all the properties and methods/behaviors in the problem statement
 
@@ -22,7 +24,11 @@
 
 ### **STEP 4.** Implement the class using Java code construct of each interacting entities that you have identified.
 
-<p align="center">
-  <img src="MIDTERM/Lab1/image/step4.png" width="190" height="180"/>
+<p align="left">
+  <img src="MIDTERM/Lab1/image/step4.1.png" width="190" height="400"/>
 </p>
+<p align="right">
+  <img src="MIDTERM/Lab1/image/step4.2.png" width="190" height="400"/>
+</p>
+
 
