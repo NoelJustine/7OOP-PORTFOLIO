@@ -7,7 +7,7 @@
 ## **STEP 1.** IDENTIFY all the necessary OBJECT within the problem domain  
 
 <p align="center">
-  <img src= "https://github.com/NoelJustine/7OOP-PORTFOLIO/blob/main/MIDTERM/Lab1/image/step1.png" width="400" height="200"/>
+  <img src= "https://github.com/NoelJustine/7OOP-PORTFOLIO/blob/6db5096d42e2de54c7a53e3901ffd8fb63b40f66/MIDTERM/Lab1/image/step1.png" width="400" height="200" />
 </p>
 
 ## **STEP 2.** IDENTIFY all the properties and methods/behaviors in the problem statement
