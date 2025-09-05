@@ -13,7 +13,7 @@
 ### Using Placeholders for Email Details: Use appropriate type specifiers %s, %d, %f etc... for this task  
 
 <p align="center"><i>Source Code</i></p>  
-<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/28e0606c-e00c-4483-8422-dafc7f417d58" />
+<img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/28e0606c-e00c-4483-8422-dafc7f417d58" />
 &nbsp;&nbsp;
 <img width="530" height="350" alt="image" src="https://github.com/user-attachments/assets/f66ef552-0a98-4804-b95e-372ad2b89007" />
 
@@ -36,13 +36,13 @@
 <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/a85cb364-1631-4058-a6fd-ffc298fb5551" />  
 
 <p align="center"><i>Sample Output</i></p>  
-<img width="230" height="90" alt="image" src="https://github.com/user-attachments/assets/4fd1f3f0-b86a-4c0d-ad56-5c97631d90b7" />  
+<img width="200" height="90" alt="image" src="https://github.com/user-attachments/assets/4fd1f3f0-b86a-4c0d-ad56-5c97631d90b7" />  
 &nbsp;&nbsp;
-<img width="230" height="90" alt="image" src="https://github.com/user-attachments/assets/a528bb9a-411f-42ff-a740-9240d14f7d79" /> 
+<img width="200" height="90" alt="image" src="https://github.com/user-attachments/assets/a528bb9a-411f-42ff-a740-9240d14f7d79" /> 
+&nbsp;&nbsp;  
+<img width="200" height="90" alt="image" src="https://github.com/user-attachments/assets/91943c28-58c1-4586-837b-bda6982d02f6" />
 &nbsp;&nbsp;
-<img width="230" height="90" alt="image" src="https://github.com/user-attachments/assets/91943c28-58c1-4586-837b-bda6982d02f6" />
-&nbsp;&nbsp;
-<img width="230" height="90" alt="image" src="https://github.com/user-attachments/assets/bba016ee-23cb-4530-8b59-785215499bd2" />
+<img width="200" height="90" alt="image" src="https://github.com/user-attachments/assets/bba016ee-23cb-4530-8b59-785215499bd2" />
  &nbsp;&nbsp;
 
 
