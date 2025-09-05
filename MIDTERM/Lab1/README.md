@@ -4,34 +4,34 @@
 ### Use Appropriate Escape Sequence ( \n, \t \b \ ..etc) for the problem below  
 *Source Code* 
 <p align="center">
-  <img align="center" width="1324" height="220" alt="image" src="https://github.com/user-attachments/assets/760ae079-5e08-4f19-9f15-470016712d77" /> 
+  <img width="530" height="220" alt="image" src="https://github.com/user-attachments/assets/760ae079-5e08-4f19-9f15-470016712d77" /> 
 </p>
 *Sample Output*
 <p align="center">
-  <img width="617" height="223" alt="image" src="https://github.com/user-attachments/assets/12282822-b2d8-4b38-afec-557955a69769" />  
+  <img width="530" height="223" alt="image" src="https://github.com/user-attachments/assets/12282822-b2d8-4b38-afec-557955a69769" />  
 </p>
 
 ## PROBLEM 2
 ### Using Placeholders for Email Details: Use appropriate type specifiers %s, %d, %f etc... for this task  
 *Source Code*  
 <p align="center">
-  <img width="491" height="607" alt="image" src="https://github.com/user-attachments/assets/28e0606c-e00c-4483-8422-dafc7f417d58" />  
-  <img width="1208" height="706" alt="image" src="https://github.com/user-attachments/assets/f66ef552-0a98-4804-b95e-372ad2b89007" />
+  <img width="530" height="607" alt="image" src="https://github.com/user-attachments/assets/28e0606c-e00c-4483-8422-dafc7f417d58" />  
+  <img width="530" height="706" alt="image" src="https://github.com/user-attachments/assets/f66ef552-0a98-4804-b95e-372ad2b89007" />
 </p>
 *Sample Output*  
 <p align="center">
-  <img width="1149" height="781" alt="image" src="https://github.com/user-attachments/assets/2269e3b2-67b0-41ae-aa48-edd061b3e5a8" />  
+  <img width="530" height="781" alt="image" src="https://github.com/user-attachments/assets/2269e3b2-67b0-41ae-aa48-edd061b3e5a8" />  
 </p>
 
 ## PROBLEM 3
 ### Book Reservation; Accept User Input
 *Source Code*  
 <p align="center">
-  <img width="1167" height="631" alt="image" src="https://github.com/user-attachments/assets/13f5b893-7f69-46c9-861e-8523997f361e" />  
+  <img width="530" height="631" alt="image" src="https://github.com/user-attachments/assets/13f5b893-7f69-46c9-861e-8523997f361e" />  
 </p>
 *Sample Output*  
 <p align="center">
-  <img width="1094" height="586" alt="image" src="https://github.com/user-attachments/assets/5a08b036-e37d-41da-bec0-0a959fe12b63" />  
+  <img width="530" height="586" alt="image" src="https://github.com/user-attachments/assets/5a08b036-e37d-41da-bec0-0a959fe12b63" />  
 </p>
 
 ## PROBLEM 4
