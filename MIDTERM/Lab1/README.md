@@ -4,7 +4,7 @@
 ### Use Appropriate Escape Sequence ( \n, \t \b \ ..etc) for the problem below  
 *Source Code* 
 <p align="center">
-  <img width="530" height="220" alt="image" src="https://github.com/user-attachments/assets/760ae079-5e08-4f19-9f15-470016712d77" /> 
+  <img width="530" height="110" alt="image" src="https://github.com/user-attachments/assets/760ae079-5e08-4f19-9f15-470016712d77" /> 
 </p>
 *Sample Output*
 <p align="center">
@@ -15,30 +15,31 @@
 ### Using Placeholders for Email Details: Use appropriate type specifiers %s, %d, %f etc... for this task  
 *Source Code*  
 <p align="center">
-  <img width="530" height="607" alt="image" src="https://github.com/user-attachments/assets/28e0606c-e00c-4483-8422-dafc7f417d58" />  
-  <img width="530" height="706" alt="image" src="https://github.com/user-attachments/assets/f66ef552-0a98-4804-b95e-372ad2b89007" />
+  <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/28e0606c-e00c-4483-8422-dafc7f417d58" />
+  &nbsp;&nbsp;
+  <img width="530" height="350" alt="image" src="https://github.com/user-attachments/assets/f66ef552-0a98-4804-b95e-372ad2b89007" />
 </p>
 *Sample Output*  
 <p align="center">
-  <img width="530" height="781" alt="image" src="https://github.com/user-attachments/assets/2269e3b2-67b0-41ae-aa48-edd061b3e5a8" />  
+  <img width="530" height="400" alt="image" src="https://github.com/user-attachments/assets/2269e3b2-67b0-41ae-aa48-edd061b3e5a8" />  
 </p>
 
 ## PROBLEM 3
 ### Book Reservation; Accept User Input
 *Source Code*  
 <p align="center">
-  <img width="530" height="631" alt="image" src="https://github.com/user-attachments/assets/13f5b893-7f69-46c9-861e-8523997f361e" />  
+  <img width="530" height="400" alt="image" src="https://github.com/user-attachments/assets/13f5b893-7f69-46c9-861e-8523997f361e" />  
 </p>
 *Sample Output*  
 <p align="center">
-  <img width="530" height="586" alt="image" src="https://github.com/user-attachments/assets/5a08b036-e37d-41da-bec0-0a959fe12b63" />  
+  <img width="530" height="360" alt="image" src="https://github.com/user-attachments/assets/5a08b036-e37d-41da-bec0-0a959fe12b63" />  
 </p>
 
 ## PROBLEM 4
 ### Day Identifier
 *Source Code* 
 <p align="center">
-  <img width="530" height="746" alt="image" src="https://github.com/user-attachments/assets/a85cb364-1631-4058-a6fd-ffc298fb5551" />  
+  <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/a85cb364-1631-4058-a6fd-ffc298fb5551" />  
 </p>
 *Sample Output*  
 <p align="center"> 
