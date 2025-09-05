@@ -15,7 +15,7 @@
 ### Using Placeholders for Email Details: Use appropriate type specifiers %s, %d, %f etc... for this task  
 *Source Code*  
 <p align="center">
-  <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/28e0606c-e00c-4483-8422-dafc7f417d58" />
+  <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/28e0606c-e00c-4483-8422-dafc7f417d58" />
   &nbsp;&nbsp;
   <img width="530" height="350" alt="image" src="https://github.com/user-attachments/assets/f66ef552-0a98-4804-b95e-372ad2b89007" />
 </p>
@@ -57,7 +57,7 @@
 
 ---  
 
-### <p align="center"> Go Back To [*Main Page*](https://noeljustine.github.io/7OOP-PORTFOLIO/)
+### Go Back To [*Main Page*](https://noeljustine.github.io/7OOP-PORTFOLIO/)
 
  
   
