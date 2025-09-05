@@ -1,7 +1,36 @@
 # **LABORATORAY TASK 1**
-### *MIDTERM*
 
-**Problem 1.** Use Appropriate Escape Sequence ( \n, \t \b \ ..etc) for the problem below  
-*Source Code*
+## PROBLEM 1
+### Use Appropriate Escape Sequence ( \n, \t \b \ ..etc) for the problem below  
+*Source Code*  
+<img width="1324" height="220" alt="image" src="https://github.com/user-attachments/assets/760ae079-5e08-4f19-9f15-470016712d77" />  
+*Sample Output*  
+<img width="617" height="223" alt="image" src="https://github.com/user-attachments/assets/12282822-b2d8-4b38-afec-557955a69769" />  
+
+## PROBLEM 2
+### Using Placeholders for Email Details: Use appropriate type specifiers %s, %d, %f etc... for this task  
+*Source Code*  
+<img width="491" height="607" alt="image" src="https://github.com/user-attachments/assets/28e0606c-e00c-4483-8422-dafc7f417d58" />  
+<img width="1208" height="706" alt="image" src="https://github.com/user-attachments/assets/f66ef552-0a98-4804-b95e-372ad2b89007" />
+*Sample Output*  
+<img width="1149" height="781" alt="image" src="https://github.com/user-attachments/assets/2269e3b2-67b0-41ae-aa48-edd061b3e5a8" />  
+
+## PROBLEM 3
+### Book Reservation; Accept User Input
+*Source Code*  
+<img width="1167" height="631" alt="image" src="https://github.com/user-attachments/assets/13f5b893-7f69-46c9-861e-8523997f361e" />  
+*Sample Output*  
+<img width="1094" height="586" alt="image" src="https://github.com/user-attachments/assets/5a08b036-e37d-41da-bec0-0a959fe12b63" />  
+
+## PROBLEM 4
+### Day Identifier
+*Source Code*  
+<img width="530" height="746" alt="image" src="https://github.com/user-attachments/assets/a85cb364-1631-4058-a6fd-ffc298fb5551" />  
+*Sample Output*  
+<img width="230" height="90" alt="image" src="https://github.com/user-attachments/assets/4fd1f3f0-b86a-4c0d-ad56-5c97631d90b7" />  
+<img width="230" height="90" alt="image" src="https://github.com/user-attachments/assets/a528bb9a-411f-42ff-a740-9240d14f7d79" />  
+<img width="230" height="90" alt="image" src="https://github.com/user-attachments/assets/91943c28-58c1-4586-837b-bda6982d02f6" />  
+<img width="230" height="90" alt="image" src="https://github.com/user-attachments/assets/93659636-0ad3-4177-b40c-c571f0fa285a" />  
+
 
 
