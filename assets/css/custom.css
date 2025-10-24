@@ -1,0 +1,12 @@
+/* ===== Simple Python Syntax Highlighting ===== */
+pre code {
+  font-family: 'Courier New', monospace;
+  display: block;
+  white-space: pre;
+}
+
+.keyword { color: #569CD6; }   /* def, for, if, etc. */
+.string  { color: #CE9178; }   /* "text" or 'text' */
+.number  { color: #B5CEA8; }   /* numbers */
+.comment { color: #6A9955; }   /* # comments */
+.func    { color: #DCDCAA; }   /* function names */
