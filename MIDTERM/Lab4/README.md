@@ -1,8 +1,42 @@
-### 💻 Source Code
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:300px; overflow-y:auto; white-space:pre;">
+# MIDTERM LAB TASK 4
+### Dictionary Collections
 
-```python
-menus = {  
+## Problem 1.
+Create the following UI for menu items: then allow the user to input orders
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:50px; overflow-y:auto;">
+<pre><code>--------- MENU ---------
+pizza     : $3.00
+nachos    : $4.50
+popcorn   : $6.00
+fries     : $2.50
+chips     : $1.00
+pretzel   : $3.50
+soda      : $3.00
+lemonade  : $4.25
+------------------------
+Select and item (q to quit): <span style="color:#00ffff;">pizza</span>
+Select and item (q to quit): <span style="color:#00ffff;">soda</span>
+Select and item (q to quit): <span style="color:#00ffff;">q</span>
+------ YOUR ORDER ------
+pizza soda
+Total is: $6.00
+</code></pre>
+  </div>  
+  
+The user will continue to input orders until q is typed to quit. Then display the summary of
+orders with the total bill.  
+1. Use a dictionary (for the menu) and List (for the orders in the cart).  
+2. Users may input the same item in the cart.  
+3. Follw the exact format and whitespace for the menu.  
+4. User input should be case insensitive.  
+5. If the user inputted an item not in the Menu – it will not include it in the cart and
+display “Not Available” and input another item.  
+6. Create a MENU with 10 items and assign prices in Peso (php) - You may choose what
+items you would like to put in your cart.  
+
+### 💻 Source Code
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:175px; overflow-y:auto;">
+<pre><code>menus = {  
     "brew":100.00,  
     "latte":130.00,  
     "mocha":150.00,  
@@ -51,5 +85,37 @@ for item, quantity in orders.items():
     print(f"{item:<10}{quantity:<5}Php {cost:<9.2f}Php {total_cost:<10.2f}")  
 print("----------------------------------------")      
 print(f"{"TOTAL":27} Php {total_final:.2f}")  
+</code></pre>
+  </div>  
   
-</div> ```
+
+### 🧾 Sample Output
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
+<pre style="font-size:13px; font-weight:normal; font-family:'Courier New', monospace; margin:0;"><code>--------------- D's Brew ---------------
+brew      : Php 100.00
+latte     : Php 130.00
+mocha     : Php 150.00
+cappu     : Php 140.00
+americ    : Php 100.00
+macchi    : Php 120.00
+drip      : Php 100.00
+choc      : Php 110.00
+chai      : Php 130.00
+matcha    : Php 150.00
+----------------------------------------
+Select an item (q to quit): MATCHA
+Select an item (q to quit): BREW
+Select an item (q to quit): MOCHA
+Select an item (q to quit): BREW
+Select an item (q to quit): Q
+
+-------------- YOUR ORDER --------------
+Items     QT   Cost         Total
+
+matcha    1    Php 150.00   Php 150.00
+brew      2    Php 100.00   Php 200.00
+mocha     1    Php 150.00   Php 150.00
+----------------------------------------
+TOTAL                       Php 500.00
+</code></pre>
+</div>
