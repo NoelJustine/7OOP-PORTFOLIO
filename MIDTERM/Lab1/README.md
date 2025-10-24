@@ -3,7 +3,7 @@
   
 ## PROBLEM 1.
 Use Appropriate Escape Sequence ( \n, \t \b \ ..etc) for the problem below  
-
+  
 ### 💻 Source Code
 <div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:150px; overflow-y:auto;">
 <pre><code>print("Database Record ") 
@@ -13,7 +13,7 @@ print("Email:\tjohn.doe@example.com")
 print("University:\tABC University\n")
 </code></pre>
   </div>  
-
+  
 ### 🧾 Sample Output
 <div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:150px; overflow-y:auto;">
 <pre><code>Database Record 
@@ -24,9 +24,11 @@ University:     ABC University
 </code></pre>
   </div>  
 
+
+      
 ## PROBLEM 2.
 Using Placeholders for Email Details: Use appropriate type specifiers %s, %d, %f etc... for this task  
-
+  
 ### 💻 Source Code
 <div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:175px; overflow-y:auto;">
 <pre><code>fname = "John" 
@@ -64,7 +66,7 @@ print("Job: %s" %l12)
 print("Department: %s" %l13)
 </code></pre>
   </div>  
-
+  
 ### 🧾 Sample Output
 <div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
 <pre><code>Dear John, I hope this email find you well.
@@ -87,11 +89,12 @@ Job: Software Engineering
 Department: Engineering
 </code></pre>
   </div>  
+  
 
-
+    
 ## PROBLEM 3.
 Book Reservation; Accept User Input  
-
+  
 ### 💻 Source Code
 <div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:175px; overflow-y:auto;">
 <pre><code>title = input("Enter the book title: ")
@@ -110,7 +113,7 @@ print(f"Member ID: {member_id}")
 print(f"Return Date: {return_date}")
 </code></pre>
   </div>  
-
+  
 ### 🧾 Sample Output
 <div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
 <pre><code>Enter the book title: <span style="color:#00ffff;">The Shining</span>
@@ -129,9 +132,11 @@ Return Date: 08-30-2025
 </code></pre>
   </div>  
 
+
+      
 ## PROBLEM 4.
 Day Identifier  
-
+  
 ### 💻 Source Code
 <div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:175px; overflow-y:auto;">
 <pre><code>day = int(input("Enter Day: "))
@@ -153,7 +158,7 @@ else:
     print("Invalid Input")
 </code></pre>
   </div>  
-
+  
 ### 🧾 Sample Output
 <div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:50px; overflow-y:auto;">
 <pre><code>Enter Day: <span style="color:#00ffff;">1</span>
@@ -175,6 +180,7 @@ Saturday
 Invalid Input
 </code></pre>
   </div>  
+  
 ---  
 
 ### Go Back To [*Main Page*](https://noeljustine.github.io/7OOP-PORTFOLIO/)
