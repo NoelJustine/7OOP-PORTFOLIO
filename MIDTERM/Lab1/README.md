@@ -5,7 +5,7 @@
 Use Appropriate Escape Sequence ( \n, \t \b \ ..etc) for the problem below  
   
 ### 💻 Source Code
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:150px; overflow-y:auto;">
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:50px; overflow-y:auto;">
 <pre><code>print("Database Record ") 
 print("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\")
 print("Name:\tJohn Doe")
@@ -15,7 +15,7 @@ print("University:\tABC University\n")
   </div>  
   
 ### 🧾 Sample Output
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:150px; overflow-y:auto;">
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:50px; overflow-y:auto;">
 <pre><code>Database Record 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 Name:   John Doe
