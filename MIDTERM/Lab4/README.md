@@ -3,7 +3,7 @@
 
 ## Problem 1.
 Create the following UI for menu items: then allow the user to input orders
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:50px; overflow-y:auto;">
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:175px; overflow-y:auto;">
 <pre><code>--------- MENU ---------
 pizza     : $3.00
 nachos    : $4.50
