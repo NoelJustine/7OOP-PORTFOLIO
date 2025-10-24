@@ -1,0 +1,4 @@
+/* Hide the default "Midnight theme" title at the top */
+header h1, header h2, .site-title, .inner h1 {
+  display: none !important;
+}
