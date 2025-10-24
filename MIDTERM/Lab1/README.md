@@ -1,51 +1,180 @@
-# **LABORATORAY TASK 1**
+# MIDTERM LAB TASK 1
+### Python Fundamentals
 
-## PROBLEM 1
-### Use Appropriate Escape Sequence ( \n, \t \b \ ..etc) for the problem below  
+## PROBLEM 1.
+Use Appropriate Escape Sequence ( \n, \t \b \ ..etc) for the problem below  
 
-<p align="center"><i>Source Code</i></p>  
-<img width="530" height="110" alt="image" src="https://github.com/user-attachments/assets/760ae079-5e08-4f19-9f15-470016712d77" /> 
-  
-<p align="center"><i>Sample Output</i></p>  
-<img width="530" height="223" alt="image" src="https://github.com/user-attachments/assets/12282822-b2d8-4b38-afec-557955a69769" />  
+### 💻 Source Code
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:175px; overflow-y:auto;">
+<pre><code>print("Database Record ") 
+print("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\")
+print("Name:\tJohn Doe")
+print("Email:\tjohn.doe@example.com")
+print("University:\tABC University\n")
+</code></pre>
+  </div>  
 
-## PROBLEM 2
-### Using Placeholders for Email Details: Use appropriate type specifiers %s, %d, %f etc... for this task  
+### 🧾 Sample Output
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
+<pre><code>Database Record 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Name:   John Doe
+Email:  john.doe@example.com
+University:     ABC University
+</code></pre>
+  </div>  
 
-<p align="center"><i>Source Code</i></p>  
-<img width="100" height="300" alt="image" src="https://github.com/user-attachments/assets/28e0606c-e00c-4483-8422-dafc7f417d58" />
-&nbsp;&nbsp;
-<img width="530" height="350" alt="image" src="https://github.com/user-attachments/assets/f66ef552-0a98-4804-b95e-372ad2b89007" />
+## PROBLEM 2.
+Using Placeholders for Email Details: Use appropriate type specifiers %s, %d, %f etc... for this task  
 
-<p align="center"><i>Sample Output</i></p>  
-<img width="530" height="400" alt="image" src="https://github.com/user-attachments/assets/2269e3b2-67b0-41ae-aa48-edd061b3e5a8" />  
+### 💻 Source Code
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:175px; overflow-y:auto;">
+<pre><code>fname = "John" 
+l1="Greating"
+l2 = "Jane"
+l3 = 1.2
+l4 = 10.50
+l5 = 'A'
+l6 = "ABCD123"
+l7 = "City XYZ" 
+l8 = 30
+l9 = "ABC Corporation"
+l10 = "www.example.com" 
+l11 = "+1 123-456-789"
+l12 ="Software Engineering"
+l13 = "Engineering"
 
-## PROBLEM 3
-### Book Reservation; Accept User Input
+print(f"Dear %s, I hope this email find you well." %fname)
+print("I wanted to reach out and say hello.")
+print("I hope you are doing well and enjoring your day.")
+print("It\'s been a while since we last spoke, and I wanted to cath up with you.")
+print("Let\'s plan to meet up soon and have a great time together!")
+print("Subject: %s" %l1)
+print("Sender: %s" %l2)
+print("Version: %.1f" %l3)
+print("Discount: %.2f" %l4, end="%\n") #percentage
+print("Status: %c" %l5)
+print("Code: %s" %l6)
+print("Location: %s" %l7) 
+print("Age: %d" %l8)
+print("Company: %s" %l9) 
+print("Website: %s" %l10) 
+print("Phone: %s" %l11)
+print("Job: %s" %l12)
+print("Department: %s" %l13)
+</code></pre>
+  </div>  
 
-<p align="center"><i>Source Code</i></p>  
-<img width="530" height="400" alt="image" src="https://github.com/user-attachments/assets/13f5b893-7f69-46c9-861e-8523997f361e" />  
+### 🧾 Sample Output
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
+<pre><code>Dear John, I hope this email find you well.
+I wanted to reach out and say hello.
+I hope you are doing well and enjoring your day.
+It's been a while since we last spoke, and I wanted to cath up with you.
+Let's plan to meet up soon and have a great time together!
+Subject: Greating
+Sender: Jane
+Version: 1.2
+Discount: 10.50%
+Status: A
+Code: ABCD123
+Location: City XYZ
+Age: 30
+Company: ABC Corporation
+Website: www.example.com
+Phone: +1 123-456-789
+Job: Software Engineering
+Department: Engineering
+</code></pre>
+  </div>  
 
-<p align="center"><i>Sample Output</i></p>  
-<img width="530" height="360" alt="image" src="https://github.com/user-attachments/assets/5a08b036-e37d-41da-bec0-0a959fe12b63" />  
 
-## PROBLEM 4
-### Day Identifier
+## PROBLEM 3.
+Book Reservation; Accept User Input  
 
-<p align="center"><i>Source Code</i></p>  
-<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/a85cb364-1631-4058-a6fd-ffc298fb5551" />  
+### 💻 Source Code
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:175px; overflow-y:auto;">
+<pre><code>title = input("Enter the book title: ")
+author = input("Enter the author: ")
+year = input("Enter the year of publication: ")
+genre = input("Enter the genre: ")
+lib = input("Enter the library: ")
+member_id = input("Enter your member ID: ")
+return_date = input("Enter the return date: ")
 
-<p align="center"><i>Sample Output</i></p>  
-<img width="100" height="90" alt="image" src="https://github.com/user-attachments/assets/4fd1f3f0-b86a-4c0d-ad56-5c97631d90b7" />  
-&nbsp;&nbsp;
-<img width="100" height="90" alt="image" src="https://github.com/user-attachments/assets/a528bb9a-411f-42ff-a740-9240d14f7d79" /> 
-&nbsp;&nbsp;  
-<img width="100" height="90" alt="image" src="https://github.com/user-attachments/assets/91943c28-58c1-4586-837b-bda6982d02f6" />
-&nbsp;&nbsp;
-<img width="100" height="90" alt="image" src="https://github.com/user-attachments/assets/bba016ee-23cb-4530-8b59-785215499bd2" />
- &nbsp;&nbsp;
+print(f"You have successfully reserved the book \'{title}\' by {author}")
+print(f"Year of Publication: {year}")
+print(f"Genre: {genre}")
+print(f"Library: {lib}")
+print(f"Member ID: {member_id}")
+print(f"Return Date: {return_date}")
+</code></pre>
+  </div>  
 
+### 🧾 Sample Output
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
+<pre><code>Enter the book title: <span style="color:#00ffff;">The Shining</span>
+Enter the author: <span style="color:#00ffff;">Stephen King</span>
+Enter the year of publication: <span style="color:#00ffff;">????</span>
+Enter the genre: <span style="color:#00ffff;">Horror</span>
+Enter the library: <span style="color:#00ffff;">City Library</span>
+Enter your member ID: <span style="color:#00ffff;">24-0189</span>
+Enter the return date: <span style="color:#00ffff;">08-30-2025</span>
+You have successfully reserved the book 'The Shining' by Stephen King
+Year of Publication: ????
+Genre: Horror
+Library: City Library
+Member ID: 24-0189
+Return Date: 08-30-2025
+</code></pre>
+  </div>  
 
+## PROBLEM 4.
+Day Identifier  
+
+### 💻 Source Code
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:175px; overflow-y:auto;">
+<pre><code>day = int(input("Enter Day: "))
+if day == 1:
+    print("Monday")
+elif day == 2:
+    print("Tuesday")
+elif day == 3:
+    print("Wednesday")
+elif day == 4:
+    print("Thursday")
+elif day == 5:
+    print("Friday")
+elif day == 6:
+    print("Saturday")
+elif day == 7:
+    print("Sunday")
+else:
+    print("Invalid Input")
+</code></pre>
+  </div>  
+
+### 🧾 Sample Output
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
+<pre><code>Enter Day: <span style="color:#00ffff;">1</span>
+Monday
+</code></pre>
+  </div>  
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
+<pre><code>Enter Day: <span style="color:#00ffff;">5</span>
+Friday
+</code></pre>
+  </div>  
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
+<pre><code>Enter Day: <span style="color:#00ffff;">6</span>
+Saturday
+</code></pre>
+  </div>  
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
+<pre><code>Enter Day: <span style="color:#00ffff;">100</span>
+Invalid Input
+</code></pre>
+  </div>  
 ---  
 
 ### Go Back To [*Main Page*](https://noeljustine.github.io/7OOP-PORTFOLIO/)
