@@ -36,7 +36,7 @@ I finished my senior year at Angeles City National Trade School (ACNTS), taking 
 **📂:** LAB TASK 2 - [LOOPS AND FUNCTIONS](https://noeljustine.github.io/7OOP-PORTFOLIO/MIDTERM/Lab2/)  
 **📂:** LAB TASK 3 - [LIST COLLECTION](https://noeljustine.github.io/7OOP-PORTFOLIO/MIDTERM/Lab3/)  
 **📂:** LAB TASK 4 - [DICTIONARIES](https://noeljustine.github.io/7OOP-PORTFOLIO/MIDTERM/Lab4/)  
-**📂:** LAB TASK 5 - [CLASS AND OBJECTS](https://noeljustine.github.io/7OOP-PORTFOLIO/MIDTERM/Lab5/)  
+**📂:** LAB TASK 5 - [CLASS AND OBJECTS](https://noeljustine.github.io/7OOP-PORTFOLIO/MIDTERM/lab5/)  
 
 --- 
 
