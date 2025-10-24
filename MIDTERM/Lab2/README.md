@@ -17,9 +17,8 @@ for x in range(1, row+1):
   </div> ``` 
 
 ### 🧾 Sample Output
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px;
-border-radius:8px; height:200px; overflow-y:auto; white-space:pre;">
-<code>Enter rows: <span style="color:#00ffff;">10</span>
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
+<pre><code>Enter rows: <span style="color:#00ffff;">10</span>
 Enter columns: <span style="color:#00ffff;">10</span>
                 Multiplication Table
 1       2       3       4       5       6       7       8       9       10
@@ -32,9 +31,8 @@ Enter columns: <span style="color:#00ffff;">10</span>
 8       16      24      32      40      48      56      64      72      80
 9       18      27      36      45      54      63      72      81      90
 10      20      30      40      50      60      70      80      90      100
-
-</code>
-</div>
+</code></pre>
+  </div> ```
 
 FOR THE NEXT ONE
 
