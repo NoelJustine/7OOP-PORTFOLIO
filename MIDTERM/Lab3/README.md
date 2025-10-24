@@ -119,9 +119,8 @@ while True:
   </div>  
 
 ### 🧾 Sample Output
-{% raw %}
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto; white-space:pre; font-family:monospace;">
-======= M E N U =======
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
+<pre><code>======= M E N U =======
 1 - Add Items
 2 - Search for an Item
 3 - Remove an Item
@@ -208,9 +207,8 @@ Pick one: <span style="color:#00ffff;">1</span>
 0 - Exit Program
 =======================
 Pick one: <span style="color:#00ffff;">0</span>
-{% endraw %}
+</code></pre>
 </div>
-
 
 ---  
 
