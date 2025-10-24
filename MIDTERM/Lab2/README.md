@@ -15,6 +15,7 @@ for x in range(1, row+1):
     print()
 </code></pre>
   </div>
+  
 
 ### 🧾 Sample Output
 <div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
@@ -33,8 +34,22 @@ Enter columns: <span style="color:#00ffff;">10</span>
 10      20      30      40      50      60      70      80      90      100
 </code></pre>
   </div>
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
+<pre><code>Enter rows: <span style="color:#00ffff;">7</span>
+Enter columns: <span style="color:#00ffff;">4</span>
+                Multiplication Table
+1       2       3       4
+2       4       6       8
+3       6       9       12
+4       8       12      16
+5       10      15      20
+6       12      18      24
+7       14      21      28
+</code></pre>
+  </div>
 
-FOR THE NEXT ONE
+## Problem 2.
+Create a bank program that will allow user to perform, use **Functions** as necessary.
 
 ### 💻 Source Code
 <div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
@@ -75,5 +90,68 @@ while True:
         print("*******************")
         print("Invalid Input")
 
+</code></pre>
+  </div>
+
+### 🧾 Sample Output
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
+<pre><code>*******************
+        ATM        
+*******************
+1. Show Balance
+2. Deposit
+3. Witdraw
+4. Exit
+Answer (1-4): <span style="color:#00ffff;">1</span>
+*******************
+Your Balance is  0
+*******************
+        ATM        
+*******************
+1. Show Balance
+2. Deposit
+3. Witdraw
+4. Exit
+Answer (1-4): <span style="color:#00ffff;">2</span>
+*******************
+Enter Amount to be Deposited: <span style="color:#00ffff;">1000</span>
+*******************
+        ATM        
+*******************
+1. Show Balance
+2. Deposit
+3. Witdraw
+4. Exit
+Answer (1-4): <span style="color:#00ffff;">1</span>
+*******************
+Your Balance is  1000
+*******************
+        ATM        
+*******************
+1. Show Balance
+2. Deposit
+3. Witdraw
+4. Exit
+Answer (1-4): <span style="color:#00ffff;">3</span>
+*******************
+Enter Amount to be Withdrawn: <span style="color:#00ffff;">250</span>
+*******************
+        ATM        
+*******************
+1. Show Balance
+2. Deposit
+3. Witdraw
+4. Exit
+Answer (1-4): <span style="color:#00ffff;">1</span>
+*******************
+Your Balance is  750
+*******************
+        ATM        
+*******************
+1. Show Balance
+2. Deposit
+3. Witdraw
+4. Exit
+Answer (1-4): <span style="color:#00ffff;">4</span>
 </code></pre>
   </div>
