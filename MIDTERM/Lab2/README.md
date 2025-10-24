@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="/assets/images/lab2.png" alt="Lab Task 2 Banner"
+       style="max-width:100%; border-radius:10px;">
+</p>
+
 # MIDTERM LAB TASK 2
 ### Using Functions
 
