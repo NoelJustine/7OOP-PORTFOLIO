@@ -1,7 +1,5 @@
 ### 💻 Source Code
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; overflow-y:auto; height:100px;">
-
-```python
+<pre> ```python
 menus = {  
     "brew":100.00,  
     "latte":130.00,  
@@ -52,4 +50,4 @@ for item, quantity in orders.items():
 print("----------------------------------------")      
 print(f"{"TOTAL":27} Php {total_final:.2f}")  
   
-</div> 
+``` </pre> 
