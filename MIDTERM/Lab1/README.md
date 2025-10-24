@@ -1,11 +1,11 @@
 # MIDTERM LAB TASK 1
-### Python Fundamentals
-
+### Python Fundamentals  
+  
 ## PROBLEM 1.
 Use Appropriate Escape Sequence ( \n, \t \b \ ..etc) for the problem below  
 
 ### 💻 Source Code
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:175px; overflow-y:auto;">
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:150px; overflow-y:auto;">
 <pre><code>print("Database Record ") 
 print("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\")
 print("Name:\tJohn Doe")
@@ -15,7 +15,7 @@ print("University:\tABC University\n")
   </div>  
 
 ### 🧾 Sample Output
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:150px; overflow-y:auto;">
 <pre><code>Database Record 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 Name:   John Doe
@@ -155,22 +155,22 @@ else:
   </div>  
 
 ### 🧾 Sample Output
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:50px; overflow-y:auto;">
 <pre><code>Enter Day: <span style="color:#00ffff;">1</span>
 Monday
 </code></pre>
   </div>  
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:50px; overflow-y:auto;">
 <pre><code>Enter Day: <span style="color:#00ffff;">5</span>
 Friday
 </code></pre>
   </div>  
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:50px; overflow-y:auto;">
 <pre><code>Enter Day: <span style="color:#00ffff;">6</span>
 Saturday
 </code></pre>
   </div>  
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:50px; overflow-y:auto;">
 <pre><code>Enter Day: <span style="color:#00ffff;">100</span>
 Invalid Input
 </code></pre>
