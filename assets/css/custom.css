@@ -1,0 +1,9 @@
+/* Hide the default Midnight theme title */
+header h1, h1.site-title, .header h1, .inner h1 {
+  display: none !important;
+}
+
+/* Optional: also hide the description under it */
+header p, .header p {
+  display: none !important;
+}
