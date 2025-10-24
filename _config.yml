@@ -4,4 +4,4 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-midnight
 include:
-  - assets/css/custom.css
+  - _includes/head-custom.html
