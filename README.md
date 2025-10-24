@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="assets/css/style.css">
 
 
 # Welcome to my Object Oriented Programming Portfolio!
