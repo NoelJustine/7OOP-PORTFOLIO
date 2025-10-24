@@ -14,7 +14,7 @@ for x in range(1, row+1):
         print((x*y), end="\t")  
     print()
 </code></pre>
-  </div> ``` 
+  </div>
 
 ### 🧾 Sample Output
 <div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
@@ -32,7 +32,7 @@ Enter columns: <span style="color:#00ffff;">10</span>
 9       18      27      36      45      54      63      72      81      90
 10      20      30      40      50      60      70      80      90      100
 </code></pre>
-  </div> ```
+  </div>
 
 FOR THE NEXT ONE
 
@@ -76,4 +76,4 @@ while True:
         print("Invalid Input")
 
 </code></pre>
-  </div> ``` 
+  </div>
