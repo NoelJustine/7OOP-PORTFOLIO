@@ -10,7 +10,7 @@
 Create an n x n Multiplication table using **Nested FOR Loop**. The user must enter the number of rows and columns that will be displayed in the Table.
 
 ### 💻 Source Code
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:175px; overflow-y:auto;">
 <pre><code>row = int(input("Enter rows: "))  
 col = int(input("Enter columns: "))  
 print("\t\tMultiplication Table")  
@@ -21,7 +21,6 @@ for x in range(1, row+1):
 </code></pre>
   </div>
   
-
 ### 🧾 Sample Output
 <div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
 <pre><code>Enter rows: <span style="color:#00ffff;">10</span>
@@ -52,7 +51,7 @@ Enter columns: <span style="color:#00ffff;">4</span>
 7       14      21      28
 </code></pre>
   </div>
-
+  
 ## Problem 2.
 Create a bank program that will allow user to perform, use **Functions** as necessary.
 
@@ -97,7 +96,7 @@ while True:
 
 </code></pre>
   </div>
-
+  
 ### 🧾 Sample Output
 <div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
 <pre><code>*******************
