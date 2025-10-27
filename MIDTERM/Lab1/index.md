@@ -6,8 +6,9 @@ layout: default
 
 # MIDTERM - LABORATORY TASK 1
 **Python Fundamentals**  
----
-
+   
+* * *  
+  
 ## PROBLEM 1.
 Use Appropriate Escape Sequence ( \n, \t \b \ ..etc) for the problem below  
   
@@ -183,8 +184,8 @@ Invalid Input
 </pre>
   </div>  
   
----  
-
+* * *  
+  
 ### Go Back To [*Main Page*](https://noeljustine.github.io/7OOP-PORTFOLIO/)
 
  
