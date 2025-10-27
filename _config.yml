@@ -1,10 +1,7 @@
-title: OBJECT ORIENTED PROGRAMMING PORFOLIO
+title: OBJECT-ORIENTED PROGRAMMING PORFOLIO
 description: by Noel Justine Diaz
 show_downloads: false
 
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
-
-project_title: OBJECT ORIENTED PROGRAMMING PORTFOLIO
-project_tagline: by Noel Justine Diaz
