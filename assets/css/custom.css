@@ -1,6 +1,8 @@
-.inner {
+
+.wrapper, .inner {
   max-width: 1400px !important;
   width: 95% !important;
+  margin: 0 auto;
 }
 
 
@@ -13,20 +15,4 @@ pre, code, pre code {
   font-size: 15px;
   display: block;
   overflow-x: auto;
-}
-
-pre {
-  max-width: 100%;
-  box-sizing: border-box;
-}
-
-h1, h2, h3 {
-  text-align: center;
-  margin-top: 20px;
-  color: #00bcd4;
-}
-
-p {
-  color: #dcdcdc;
-  line-height: 1.7;
 }
