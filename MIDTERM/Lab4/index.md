@@ -1,10 +1,13 @@
-# MIDTERM LAB TASK 4
-### Dictionary Collections
+---
+title: "MIDTERM - LABORATORY TASK 3"
+description: "Dictionary Collections"
+layout: default
+---
 
 ## Problem 1.
 Create the following UI for menu items: then allow the user to input orders
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:175px; overflow-y:auto;">
-<pre><code>--------- MENU ---------
+<div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
+<pre style="margin:0; white-space:pre;">--------- MENU ---------
 pizza     : $3.00
 nachos    : $4.50
 popcorn   : $6.00
@@ -14,9 +17,9 @@ pretzel   : $3.50
 soda      : $3.00
 lemonade  : $4.25
 ------------------------
-Select and item (q to quit): <span style="color:#00ffff;">pizza</span>
-Select and item (q to quit): <span style="color:#00ffff;">soda</span>
-Select and item (q to quit): <span style="color:#00ffff;">q</span>
+Select and item (q to quit): <span style="color:#00bcd4;">pizza</span>
+Select and item (q to quit): <span style="color:#00bcd4;">soda</span>
+Select and item (q to quit): <span style="color:#00bcd4;">q</span>
 ------ YOUR ORDER ------
 pizza soda
 Total is: $6.00
@@ -35,8 +38,8 @@ display “Not Available” and input another item.
 items you would like to put in your cart.  
 
 ### 💻 Source Code
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:175px; overflow-y:auto;">
-<pre><code>menus = {  
+```python
+menus = {  
     "brew":100.00,  
     "latte":130.00,  
     "mocha":150.00,  
@@ -85,13 +88,11 @@ for item, quantity in orders.items():
     print(f"{item:<10}{quantity:<5}Php {cost:<9.2f}Php {total_cost:<10.2f}")  
 print("----------------------------------------")      
 print(f"{"TOTAL":27} Php {total_final:.2f}")  
-</code></pre>
-  </div>  
+``` 
   
-
 ### 🧾 Sample Output
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
-<pre style="font-size:13px; font-weight:normal; font-family:'Courier New', monospace; margin:0;"><code>--------------- D's Brew ---------------
+<div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
+<pre style="margin:0; white-space:pre;">--------------- D's Brew ---------------
 brew      : Php 100.00
 latte     : Php 130.00
 mocha     : Php 150.00
@@ -103,11 +104,11 @@ choc      : Php 110.00
 chai      : Php 130.00
 matcha    : Php 150.00
 ----------------------------------------
-Select an item (q to quit): MATCHA
-Select an item (q to quit): BREW
-Select an item (q to quit): MOCHA
-Select an item (q to quit): BREW
-Select an item (q to quit): Q
+Select an item (q to quit): <span style="color:#00bcd4;">MATCHA</span>
+Select an item (q to quit): <span style="color:#00bcd4;">BREW</span>
+Select an item (q to quit): <span style="color:#00bcd4;">MOCHA</span>
+Select an item (q to quit): <span style="color:#00bcd4;">BREW</span>
+Select an item (q to quit): <span style="color:#00bcd4;">Q</span>
 
 -------------- YOUR ORDER --------------
 Items     QT   Cost         Total
