@@ -1,5 +1,5 @@
 # MIDTERM LAB TASK 5
-### Creating Class and Instantiating Objects in Pythoncts
+### Creating Class and Instantiating Objects in Pythons
 
 ## Problem 1. Users in Social Media
 
