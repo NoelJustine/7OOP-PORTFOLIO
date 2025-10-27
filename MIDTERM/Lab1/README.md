@@ -1,6 +1,7 @@
 ---
 title: "Lab Task 1"
 description: "Python Fundamentals"
+layout: default
 ---
   
 ## PROBLEM 1.
