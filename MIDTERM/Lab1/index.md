@@ -1,5 +1,5 @@
 ---
-title: "Lab Task 1"
+title: "MIDTERM - LABORATORY TASK 1"
 description: "Python Fundamentals"
 layout: default
 ---
