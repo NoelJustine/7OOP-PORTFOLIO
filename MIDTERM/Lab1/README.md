@@ -5,7 +5,7 @@
 Use Appropriate Escape Sequence ( \n, \t \b \ ..etc) for the problem below  
   
 ### 💻 Source Code
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:50px; overflow-y:auto;">
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:150px; overflow-y:auto;">
 <pre><code>print("Database Record ") 
 print("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\")
 print("Name:\tJohn Doe")
@@ -15,7 +15,7 @@ print("University:\tABC University\n")
   </div>  
   
 ### 🧾 Sample Output
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:50px; overflow-y:auto;">
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:150px; overflow-y:auto;">
 <pre><code>Database Record 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 Name:   John Doe
@@ -32,7 +32,7 @@ Using Placeholders for Email Details: Use appropriate type specifiers %s, %d, %f
 ### 💻 Source Code
 <div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:175px; overflow-y:auto;">
 <pre><code>fname = "John" 
-l1="Greating"
+l1="Greeting"
 l2 = "Jane"
 l3 = 1.2
 l4 = 10.50
@@ -74,7 +74,7 @@ I wanted to reach out and say hello.
 I hope you are doing well and enjoring your day.
 It's been a while since we last spoke, and I wanted to cath up with you.
 Let's plan to meet up soon and have a great time together!
-Subject: Greating
+Subject: Greeting
 Sender: Jane
 Version: 1.2
 Discount: 10.50%
