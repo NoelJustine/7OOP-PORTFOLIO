@@ -7,7 +7,7 @@ layout: default
 # MIDTERM - LABORATORY TASK 1
 ### Python Fundamentals
 
-## PROBLEM 1.
+**PROBLEM 1.**  
 Use Appropriate Escape Sequence ( \n, \t \b \ ..etc) for the problem below  
   
 ### 💻 Source Code
@@ -29,9 +29,7 @@ University:     ABC University
 </code></pre>
   </div>  
 
-
-      
-## PROBLEM 2.
+**PROBLEM 2.**  
 Using Placeholders for Email Details: Use appropriate type specifiers %s, %d, %f etc... for this task  
   
 ### 💻 Source Code
@@ -96,7 +94,7 @@ Department: Engineering
   
 
     
-## PROBLEM 3.
+**PROBLEM 3.**  
 Book Reservation; Accept User Input  
   
 ### 💻 Source Code
@@ -137,7 +135,7 @@ Return Date: 08-30-2025
 
 
       
-## PROBLEM 4.
+**PROBLEM 4.**  
 Day Identifier  
   
 ### 💻 Source Code
