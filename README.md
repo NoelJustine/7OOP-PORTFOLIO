@@ -20,7 +20,8 @@ Hello! I am **Noel Justine**, a 2nd-year college student of City College of Ange
 🎬 Movies and Series  
   - Animations  
   - Horror  
-  - Fantasy  
+  - Fantasy
+    
 🍳 Cooking and Baking  
 
 ---  
