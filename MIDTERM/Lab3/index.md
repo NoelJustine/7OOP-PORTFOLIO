@@ -1,9 +1,12 @@
 ---
-title: "LABORATORY TASK 3"
+title: "MIDTERM - LABORATORY TASK 3"
 description: "List Collections"
 layout: default
 ---
-  
+
+# MIDTERM - LABORATORY TASK 3
+### List Collections  
+    
 **Problem 1. Using List Collection type.***  
 Create a program that will allow the user to perform the following **functions**: (add, update, search, delete, display, and sort) items in a list.  
 
