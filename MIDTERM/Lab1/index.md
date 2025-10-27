@@ -6,9 +6,9 @@ layout: default
 
 # MIDTERM - LABORATORY TASK 1
 **Python Fundamentals**  
-   
+<br>
 * * *  
-  
+<br>
 ## PROBLEM 1.
 Use Appropriate Escape Sequence ( \n, \t \b \ ..etc) for the problem below  
   
@@ -30,6 +30,8 @@ Email:  john.doe@example.com
 University:     ABC University
 </pre>
   </div>  
+
+<br>
 
 ## PROBLEM 2.
 Using Placeholders for Email Details: Use appropriate type specifiers %s, %d, %f etc... for this task  
@@ -93,7 +95,9 @@ Job: Software Engineering
 Department: Engineering
 </pre>
   </div>  
-    
+   
+<br>
+ 
 ## PROBLEM 3.
 Book Reservation; Accept User Input  
   
@@ -133,7 +137,7 @@ Return Date: 08-30-2025
 </pre>
   </div>  
 
-
+<br>
       
 ## PROBLEM 4.
 Day Identifier  
@@ -183,9 +187,11 @@ Saturday
 Invalid Input
 </pre>
   </div>  
-  
+
+<br>
 * * *  
-  
+<br>
+
 ### Go Back To [*Main Page*](https://noeljustine.github.io/7OOP-PORTFOLIO/)
 
  
