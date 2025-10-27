@@ -1,28 +1,18 @@
 {%- assign header_text = page.title -%}
 {%- if header_text == nil or header_text == "" -%}
-  {%- assign first_line = page.content | split: "\n" | first | strip -%}
-  {%- assign header_text = first_line | replace: "#" | replace: "##" | replace: "###" | strip -%}
+  {%- assign content_lines = page.content | split: "\n" -%}
+  {%- for l in content_lines -%}
+    {%- assign t = l | strip -%}
+    {%- if t != "" -%}
+      {%- assign header_text = t | remove: "#" | strip -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
 {%- endif -%}
 
-{%- assign tagline = page.description | default: site.description -%}
-
 <header class="project-header" role="banner" style="padding:28px 0; text-align:center;">
-  <div class="inner" style="max-width:1100px; margin:0 auto; padding:0 20px;">
-    {%- if header_text and header_text != "" -%}
-      <h1 class="project-title" style="margin:0; color:#00bcd4; font-size:28px; line-height:1.15;">
-        {{ header_text }}
-      </h1>
-    {%- else -%}
-      <!-- fallback to site.title if nothing else -->
-      <h1 class="project-title" style="margin:0; color:#00bcd4;">
-        {{ site.title }}
-      </h1>
-    {%- endif -%}
-
-    {%- if tagline and tagline != "" -%}
-      <p class="project-tagline" style="margin:8px 0 0; color:#dcdcdc;">
-        {{ tagline }}
-      </p>
-    {%- endif -%}
+  <div class="inner" style="max-width:1100px; margin:0 auto;">
+    <h1 class="project-title" style="color:#00bcd4;">{{ header_text | default: site.title }}</h1>
+    <p class="project-tagline" style="color:#dcdcdc;">{{ page.description | default: site.description }}</p>
   </div>
 </header>
