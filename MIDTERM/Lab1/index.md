@@ -6,9 +6,7 @@ layout: default
 
 # MIDTERM - LABORATORY TASK 1
 **Python Fundamentals**  
-
-<br>
-
+  
 * * * 
  
 <br>
@@ -191,9 +189,7 @@ Saturday
 Invalid Input
 </pre>
   </div>  
-
-<br>
-
+  
 * * *
   
 <br>
