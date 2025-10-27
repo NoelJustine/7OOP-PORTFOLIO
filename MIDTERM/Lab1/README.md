@@ -7,18 +7,17 @@ description: "Python Fundamentals"
 Use Appropriate Escape Sequence ( \n, \t \b \ ..etc) for the problem below  
   
 ### 💻 Source Code
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:150px; overflow-y:auto;">
-<pre><code>print("Database Record ") 
+```python
+print("Database Record ") 
 print("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\")
 print("Name:\tJohn Doe")
 print("Email:\tjohn.doe@example.com")
 print("University:\tABC University\n")
-</code></pre>
-  </div>  
+```
   
 ### 🧾 Sample Output
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:150px; overflow-y:auto;">
-<pre><code>Database Record 
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5;">
+<pre style="margin:0;">Database Record 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 Name:   John Doe
 Email:  john.doe@example.com
@@ -32,8 +31,8 @@ University:     ABC University
 Using Placeholders for Email Details: Use appropriate type specifiers %s, %d, %f etc... for this task  
   
 ### 💻 Source Code
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:175px; overflow-y:auto;">
-<pre><code>fname = "John" 
+```python
+fname = "John" 
 l1="Greeting"
 l2 = "Jane"
 l3 = 1.2
@@ -66,12 +65,11 @@ print("Website: %s" %l10)
 print("Phone: %s" %l11)
 print("Job: %s" %l12)
 print("Department: %s" %l13)
-</code></pre>
-  </div>  
+``` 
   
 ### 🧾 Sample Output
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
-<pre><code>Dear John, I hope this email find you well.
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5;">
+<pre style="margin:0;">Dear John, I hope this email find you well.
 I wanted to reach out and say hello.
 I hope you are doing well and enjoring your day.
 It's been a while since we last spoke, and I wanted to cath up with you.
@@ -98,8 +96,8 @@ Department: Engineering
 Book Reservation; Accept User Input  
   
 ### 💻 Source Code
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:175px; overflow-y:auto;">
-<pre><code>title = input("Enter the book title: ")
+```python
+title = input("Enter the book title: ")
 author = input("Enter the author: ")
 year = input("Enter the year of publication: ")
 genre = input("Enter the genre: ")
@@ -113,12 +111,11 @@ print(f"Genre: {genre}")
 print(f"Library: {lib}")
 print(f"Member ID: {member_id}")
 print(f"Return Date: {return_date}")
-</code></pre>
-  </div>  
+```
   
 ### 🧾 Sample Output
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
-<pre><code>Enter the book title: <span style="color:#00ffff;">The Shining</span>
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5;">
+<pre style="margin:0;">Enter the book title: <span style="color:#00ffff;">The Shining</span>
 Enter the author: <span style="color:#00ffff;">Stephen King</span>
 Enter the year of publication: <span style="color:#00ffff;">????</span>
 Enter the genre: <span style="color:#00ffff;">Horror</span>
@@ -140,8 +137,8 @@ Return Date: 08-30-2025
 Day Identifier  
   
 ### 💻 Source Code
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:175px; overflow-y:auto;">
-<pre><code>day = int(input("Enter Day: "))
+```python
+day = int(input("Enter Day: "))
 if day == 1:
     print("Monday")
 elif day == 2:
@@ -158,27 +155,29 @@ elif day == 7:
     print("Sunday")
 else:
     print("Invalid Input")
-</code></pre>
-  </div>  
+```
   
+
 ### 🧾 Sample Output
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:50px; overflow-y:auto;">
-<pre><code>Enter Day: <span style="color:#00ffff;">1</span>
-Monday
-</code></pre>
-  </div>  
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:50px; overflow-y:auto;">
-<pre><code>Enter Day: <span style="color:#00ffff;">5</span>
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5;">
+<pre style="margin:0;">Enter Day: <span style="color:#00ffff;">1</span>
+Monday</pre>
+</div>
+
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5;">
+<pre style="margin:0;">Enter Day: <span style="color:#00ffff;">5</span>
 Friday
 </code></pre>
   </div>  
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:50px; overflow-y:auto;">
-<pre><code>Enter Day: <span style="color:#00ffff;">6</span>
+
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5;">
+<pre style="margin:0;">Enter Day: <span style="color:#00ffff;">6</span>
 Saturday
 </code></pre>
   </div>  
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:50px; overflow-y:auto;">
-<pre><code>Enter Day: <span style="color:#00ffff;">100</span>
+  
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5;">
+<pre style="margin:0;">Enter Day: <span style="color:#00ffff;">100</span>
 Invalid Input
 </code></pre>
   </div>  
