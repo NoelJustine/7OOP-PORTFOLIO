@@ -1,7 +1,7 @@
 ---
+layout: custom
 title: "MIDTERM - LABORATORY TASK 5"
 description: "Creating Class and Instantiating Objects in Pythons"
-layout: default
 ---
 
 ## Problem 1. Users in Social Media
