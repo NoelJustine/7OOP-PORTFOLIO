@@ -1,43 +1,4 @@
----
-layout: default
----
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>
-    {% if page.title %}
-      {{ page.title }} | {{ site.title }}
-    {% else %}
-      {{ site.title }}
-    {% endif %}
-  </title>
-
+{% if site.theme %}
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-</head>
-
-<body>
-  <div class="wrapper">
-
-    {% if page.title %}
-      <h1 style="color:#00bcd4; text-align:center; margin-top:20px;">{{ page.title }}</h1>
-    {% endif %}
-    {% if page.description %}
-      <p style="color:#dcdcdc; text-align:center; margin-bottom:25px;">{{ page.description }}</p>
-    {% endif %}
-
-    <section>
-      {{ content }}
-    </section>
-
-  </div>
-
-  {% if site.github.is_project_page %}
-    <footer>
-      <p>Hosted on GitHub Pages</p>
-    </footer>
-  {% endif %}
-</body>
-</html>
+{% endif %}
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css">
