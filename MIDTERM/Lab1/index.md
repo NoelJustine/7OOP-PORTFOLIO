@@ -3,7 +3,10 @@ title: "MIDTERM - LABORATORY TASK 1"
 description: "Python Fundamentals"
 layout: default
 ---
-  
+
+# MIDTERM - LABORATORY TASK 1
+### Python Fundamentals
+
 ## PROBLEM 1.
 Use Appropriate Escape Sequence ( \n, \t \b \ ..etc) for the problem below  
   
