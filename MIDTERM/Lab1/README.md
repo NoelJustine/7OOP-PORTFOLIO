@@ -1,5 +1,7 @@
-# MIDTERM LAB TASK 1
-### Python Fundamentals  
+---
+title: "Lab Task 1"
+description: "Python Fundamentals"
+---
   
 ## PROBLEM 1.
 Use Appropriate Escape Sequence ( \n, \t \b \ ..etc) for the problem below  
