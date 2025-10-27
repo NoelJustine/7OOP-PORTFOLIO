@@ -2,6 +2,7 @@
 title: "Lab Task 1"
 description: "Python Fundamentals"
 layout: default
+permalink: /Lab1/
 ---
   
 ## PROBLEM 1.
