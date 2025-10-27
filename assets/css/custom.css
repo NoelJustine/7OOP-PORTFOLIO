@@ -1,8 +1,23 @@
-/* Hide the Midnight theme title/header completely */
-#header, #title {
-  display: none !important;
-  visibility: hidden !important;
-  height: 0 !important;
-  margin: 0 !important;
-  padding: 0 !important;
+
+.wrapper {
+  max-width: 1200px !important;  /* default is ~740px */
+  width: 95% !important;
+}
+
+section {
+  padding: 30px 40px !important;
+}
+
+pre, code {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  max-width: 100%;
+}
+
+#sidebar {
+  max-width: 280px !important;
+}
+
+p {
+  line-height: 1.7;
 }
