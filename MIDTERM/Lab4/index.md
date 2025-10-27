@@ -1,7 +1,7 @@
 ---
+layout: custom
 title: "MIDTERM - LABORATORY TASK 4"
 description: "Dictionary Collections"
-layout: default
 ---
 
 ## Problem 1.
