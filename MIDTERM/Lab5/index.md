@@ -1,10 +1,13 @@
 ---
-layout: custom
+layout: default
 title: "MIDTERM - LABORATORY TASK 5"
 description: "Creating Class and Instantiating Objects in Pythons"
 ---
 
-## Problem 1. Users in Social Media
+# MIDTERM - LABORATORY TASK 5
+### Creating Class and Instantiating Objects in Pythons
+
+**Problem 1. Users in Social Media**
 
 a. Create User Class with the ff: attributes (Use Constructor for this)  
     ∙ first_name  
