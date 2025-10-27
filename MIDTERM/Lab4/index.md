@@ -1,8 +1,11 @@
 ---
-layout: custom
+layout: default
 title: "MIDTERM - LABORATORY TASK 4"
 description: "Dictionary Collections"
 ---
+
+# MIDTERM - LABORATORY TASK 4
+### Dictionary Collection
 
 ## Problem 1.
 Create the following UI for menu items: then allow the user to input orders
