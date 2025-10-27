@@ -5,7 +5,8 @@ layout: default
 ---
 
 # MIDTERM - LABORATORY TASK 1
-### Python Fundamentals
+**Python Fundamentals**  
+---
 
 **PROBLEM 1.**  
 Use Appropriate Escape Sequence ( \n, \t \b \ ..etc) for the problem below  
@@ -26,7 +27,7 @@ print("University:\tABC University\n")
 Name:   John Doe
 Email:  john.doe@example.com
 University:     ABC University
-</code></pre>
+</pre>
   </div>  
 
 **PROBLEM 2.**  
@@ -89,7 +90,7 @@ Website: www.example.com
 Phone: +1 123-456-789
 Job: Software Engineering
 Department: Engineering
-</code></pre>
+</pre>
   </div>  
   
 
@@ -130,7 +131,7 @@ Genre: Horror
 Library: City Library
 Member ID: 24-0189
 Return Date: 08-30-2025
-</code></pre>
+</pre>
   </div>  
 
 
@@ -169,19 +170,19 @@ Monday</pre>
 <div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
 <pre style="margin:0; white-space:pre;">Enter Day: <span style="color:#00bcd4;">5</span>
 Friday
-</code></pre>
+</pre>
   </div>  
 
 <div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
 <pre style="margin:0; white-space:pre;">Enter Day: <span style="color:#00bcd4;">6</span>
 Saturday
-</code></pre>
+</pre>
   </div>  
   
 <div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
 <pre style="margin:0; white-space:pre;">Enter Day: <span style="color:#00bcd4;">100</span>
 Invalid Input
-</code></pre>
+</pre>
   </div>  
   
 ---  
