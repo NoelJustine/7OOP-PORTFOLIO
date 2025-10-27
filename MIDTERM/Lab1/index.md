@@ -17,8 +17,8 @@ print("University:\tABC University\n")
 ```
   
 ### 🧾 Sample Output
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5;">
-<pre style="margin:0;">Database Record 
+<div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
+<pre style="margin:0; white-space:pre;">Database Record 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 Name:   John Doe
 Email:  john.doe@example.com
@@ -69,8 +69,8 @@ print("Department: %s" %l13)
 ``` 
   
 ### 🧾 Sample Output
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5;">
-<pre style="margin:0;">Dear John, I hope this email find you well.
+<div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
+<pre style="margin:0; white-space:pre;">Dear John, I hope this email find you well.
 I wanted to reach out and say hello.
 I hope you are doing well and enjoring your day.
 It's been a while since we last spoke, and I wanted to cath up with you.
@@ -115,14 +115,14 @@ print(f"Return Date: {return_date}")
 ```
   
 ### 🧾 Sample Output
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5;">
-<pre style="margin:0;">Enter the book title: <span style="color:#00ffff;">The Shining</span>
-Enter the author: <span style="color:#00ffff;">Stephen King</span>
-Enter the year of publication: <span style="color:#00ffff;">????</span>
-Enter the genre: <span style="color:#00ffff;">Horror</span>
-Enter the library: <span style="color:#00ffff;">City Library</span>
-Enter your member ID: <span style="color:#00ffff;">24-0189</span>
-Enter the return date: <span style="color:#00ffff;">08-30-2025</span>
+<div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
+<pre style="margin:0; white-space:pre;">Enter the book title: <span style="color:#00bcd4;">The Shining</span>
+Enter the author: <span style="color:#00bcd4;">Stephen King</span>
+Enter the year of publication: <span style="color:#00bcd4;">????</span>
+Enter the genre: <span style="color:#00bcd4;">Horror</span>
+Enter the library: <span style="color:#00bcd4;">City Library</span>
+Enter your member ID: <span style="color:#00bcd4;">24-0189</span>
+Enter the return date: <span style="color:#00bcd4;">08-30-2025</span>
 You have successfully reserved the book 'The Shining' by Stephen King
 Year of Publication: ????
 Genre: Horror
@@ -160,25 +160,25 @@ else:
   
 
 ### 🧾 Sample Output
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5;">
-<pre style="margin:0;">Enter Day: <span style="color:#00ffff;">1</span>
+<div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
+<pre style="margin:0; white-space:pre;">Enter Day: <span style="color:#00bcd4;">1</span>
 Monday</pre>
 </div>
 
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5;">
-<pre style="margin:0;">Enter Day: <span style="color:#00ffff;">5</span>
+<div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
+<pre style="margin:0; white-space:pre;">Enter Day: <span style="color:#00bcd4;">5</span>
 Friday
 </code></pre>
   </div>  
 
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5;">
-<pre style="margin:0;">Enter Day: <span style="color:#00ffff;">6</span>
+<div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
+<pre style="margin:0; white-space:pre;">Enter Day: <span style="color:#00bcd4;">6</span>
 Saturday
 </code></pre>
   </div>  
   
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5;">
-<pre style="margin:0;">Enter Day: <span style="color:#00ffff;">100</span>
+<div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
+<pre style="margin:0; white-space:pre;">Enter Day: <span style="color:#00bcd4;">100</span>
 Invalid Input
 </code></pre>
   </div>  
