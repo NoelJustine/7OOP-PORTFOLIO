@@ -2,17 +2,17 @@
 layout: default
 ---
 
-<header id="custom-header">
-  {% if page.title %}
-    <h1>{{ page.title }}</h1>
-  {% endif %}
-  {% if page.description %}
-    <p>{{ page.description }}</p>
-  {% endif %}
-</header>
+{% assign saved_title = site.project_title %}
+{% assign saved_tagline = site.project_tagline %}
 
-<div class="custom-wrapper">
-  <section>
-    {{ content }}
-  </section>
-</div>
+{% if page.title %}
+  {% assign site.project_title = page.title %}
+{% endif %}
+{% if page.description %}
+  {% assign site.project_tagline = page.description %}
+{% endif %}
+
+{{ content }}
+
+{% assign site.project_title = saved_title %}
+{% assign site.project_tagline = saved_tagline %}
