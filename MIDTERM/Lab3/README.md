@@ -1,6 +1,9 @@
-# MIDTERM LAB TASK 3
-### List Collections
-
+---
+title: "LABORATORY TASK 3"
+description: "List Collections"
+layout: default
+---
+  
 **Problem 1. Using List Collection type.***  
 Create a program that will allow the user to perform the following **functions**: (add, update, search, delete, display, and sort) items in a list.  
 
@@ -31,8 +34,8 @@ Note: you are free to design the interface of the program, base on the Menu opti
 shown.  
 
 ### 💻 Source Code
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:175px; overflow-y:auto;">
-<pre><code>def add_items():
+```python
+def add_items():
     while True:
         print("=======================")
         print("Enter Item\nx to exit")
@@ -115,47 +118,46 @@ while True:
         view_items()
     else:
         print("\nINVALID INPUT!")
-</code></pre>
-  </div>  
+``` 
 
 ### 🧾 Sample Output
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
-<pre><code>======= M E N U =======
+<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5;">
+<pre style="margin:0;">======= M E N U =======
 1 - Add Items
 2 - Search for an Item
 3 - Remove an Item
 4 - View all Items
 0 - Exit Program
 =======================
-Pick one: <span style="color:#00ffff;">1</span>
+Pick one: <span style="color:#00bcd4;">1</span>
 =======================
 Enter Item
 x to exit
-Answer: <span style="color:#00ffff;">Pencil</span>
+Answer: <span style="color:#00bcd4;">Pencil</span>
 Item Processing...
 Done!
 =======================
 Enter Item
 x to exit
-Answer: <span style="color:#00ffff;">bag</span>
+Answer: <span style="color:#00bcd4;">bag</span>
 Item Processing...
 Done!
 =======================
 Enter Item
 x to exit
-Answer: <span style="color:#00ffff;">pencil</span>
+Answer: <span style="color:#00bcd4;">pencil</span>
 Item Processing...
 Done!
 =======================
 Enter Item
 x to exit
-Answer: <span style="color:#00ffff;">ballpen</span>
+Answer: <span style="color:#00bcd4;">ballpen</span>
 Item Processing...
 Done!
 =======================
 Enter Item
 x to exit
-Answer: <span style="color:#00ffff;">x</span>
+Answer: <span style="color:#00bcd4;">x</span>
 Exiting...
 ======= M E N U =======
 1 - Add Items
@@ -164,9 +166,9 @@ Exiting...
 4 - View all Items
 0 - Exit Program
 =======================
-Pick one: <span style="color:#00ffff;">2</span>
+Pick one: <span style="color:#00bcd4;">2</span>
 =======================
-Search <span style="color:#00ffff;">BAG</span>
+Search <span style="color:#00bcd4;">BAG</span>
 Searching...
 Found It!
 "BAG" currently have 1 in the list
@@ -177,9 +179,9 @@ Found It!
 4 - View all Items
 0 - Exit Program
 =======================
-Pick one: <span style="color:#00ffff;">3</span>
+Pick one: <span style="color:#00bcd4;">3</span>
 =======================
-Remove <span style="color:#00ffff;">bag</span>
+Remove <span style="color:#00bcd4;">bag</span>
 Item Found...
 Item Deleted
 ======= M E N U =======
@@ -189,12 +191,12 @@ Item Deleted
 4 - View all Items
 0 - Exit Program
 =======================
-Pick one: <span style="color:#00ffff;">4</span>
+Pick one: <span style="color:#00bcd4;">4</span>
 =======================
 View Items in...
 1 - Acending Order (A-Z)
 2 - Descending Order (Z-A)
-Pick one: <span style="color:#00ffff;">1</span>
+Pick one: <span style="color:#00bcd4;">1</span>
 ====== ITEMS LIST =====
   1 - ballpen
   2 - pencil
@@ -206,7 +208,7 @@ Pick one: <span style="color:#00ffff;">1</span>
 4 - View all Items
 0 - Exit Program
 =======================
-Pick one: <span style="color:#00ffff;">0</span>
+Pick one: <span style="color:#00bcd4;">0</span>
 </code></pre>
 </div>
 
