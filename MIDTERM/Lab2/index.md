@@ -7,7 +7,7 @@ layout: default
 # MIDTERM - LABORATORY TASK 2
 ### Loops and Functions
 
-## Problem 1.
+**Problem 1.**  
 Create an n x n Multiplication table using **Nested FOR Loop**. The user must enter the number of rows and columns that will be displayed in the Table.
 
 ### 💻 Source Code
@@ -53,7 +53,7 @@ Enter columns: <span style="color:#00bcd4;">4</span>
 </code></pre>
   </div>
   
-## Problem 2.
+**Problem 2.**  
 Create a bank program that will allow user to perform, use **Functions** as necessary.
 
 ### 💻 Source Code
