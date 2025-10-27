@@ -1,5 +1,5 @@
 ---
-title: "MIDTERM - LABORATORY TASK 3"
+title: "MIDTERM - LABORATORY TASK 4"
 description: "Dictionary Collections"
 layout: default
 ---
@@ -120,3 +120,7 @@ mocha     1    Php 150.00   Php 150.00
 TOTAL                       Php 500.00
 </code></pre>
 </div>
+
+---  
+
+### Go Back To [*Main Page*](https://noeljustine.github.io/7OOP-PORTFOLIO/)
