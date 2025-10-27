@@ -1,5 +1,8 @@
-# MIDTERM LAB TASK 5
-### Creating Class and Instantiating Objects in Pythons
+---
+title: "MIDTERM - LABORATORY TASK 5"
+description: "Creating Class and Instantiating Objects in Pythons"
+layout: default
+---
 
 ## Problem 1. Users in Social Media
 
@@ -24,8 +27,8 @@ the class template.
 3. Use of proper naming conventions – 5
 
 ### 💻 Source Code
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:175px; overflow-y:auto;">
-<pre><code>class User:
+```python
+class User:
     def __init__(self, first, last, followers, friends):
         self.first_name = first
         self.last_name = last
@@ -78,31 +81,30 @@ if __name__ == "__main__":
     test = TestUser()
     test.testing()
     test.show_records()
-</code></pre>
-  </div>  
+``` 
 
 ### 🧾 Sample Output
-<div style="background-color:#1e1e1e; color:#dcdcdc; padding:15px; border-radius:8px; height:250px; overflow-y:auto;">
-<pre><code>Insert a Record?[y[n]: y<span style="color:#00ffff;">Horror</span>
+<div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
+<pre style="margin:0; white-space:pre;">Insert a Record?[y[n]: <span style="color:#00bcd4;">y</span>
 
-First Name: <span style="color:#00ffff;">noel</span>
-Last Name: <span style="color:#00ffff;">diaz</span>
-Followers: <span style="color:#00ffff;">10</span>
-Friends [q to quit]: <span style="color:#00ffff;">justine</span>
-Friends [q to quit]: <span style="color:#00ffff;">john doe</span>
-Friends [q to quit]: <span style="color:#00ffff;">q</span>
+First Name: <span style="color:#00bcd4;">noel</span>
+Last Name: <span style="color:#00bcd4;">diaz</span>
+Followers: <span style="color:#00bcd4;">10</span>
+Friends [q to quit]: <span style="color:#00bcd4;">justine</span>
+Friends [q to quit]: <span style="color:#00bcd4;">john doe</span>
+Friends [q to quit]: <span style="color:#00bcd4;">q</span>
 
-Insert a Record?[y[n]: <span style="color:#00ffff;">y</span>
+Insert a Record?[y[n]: <span style="color:#00bcd4;">y</span>
 
-First Name: <span style="color:#00ffff;">john</span>
-Last Name: <span style="color:#00ffff;">doe</span>
-Followers: <span style="color:#00ffff;">1000000</span>
-Friends [q to quit]: <span style="color:#00ffff;">justine</span>
-Friends [q to quit]: <span style="color:#00ffff;">noel</span>
-Friends [q to quit]: <span style="color:#00ffff;">johny</span>
-Friends [q to quit]: <span style="color:#00ffff;">q</span>
+First Name: <span style="color:#00bcd4;">john</span>
+Last Name: <span style="color:#00bcd4;">doe</span>
+Followers: <span style="color:#00bcd4;">1000000</span>
+Friends [q to quit]: <span style="color:#00bcd4;">justine</span>
+Friends [q to quit]: <span style="color:#00bcd4;">noel</span>
+Friends [q to quit]: <span style="color:#00bcd4;">johny</span>
+Friends [q to quit]: <span style="color:#00bcd4;">q</span>
 
-Insert a Record?[y[n]: <span style="color:#00ffff;">n</span>
+Insert a Record?[y[n]: <span style="color:#00bcd4;">n</span>
 Here are the Records...
 
 Hi, I am noel diaz
@@ -114,3 +116,7 @@ Profile Name is: john doe with 1000000 followers
 Your friends are: justine, noel, johny
 </code></pre>
   </div>  
+
+---  
+
+### Go Back To [*Main Page*](https://noeljustine.github.io/7OOP-PORTFOLIO/)
