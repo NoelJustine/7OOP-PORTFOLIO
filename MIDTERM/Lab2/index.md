@@ -1,11 +1,8 @@
 ---
-title: "Laboratory Task 2"
+title: "MIDTERM - LABORATORY TASK 2"
 description: "Loops and Functions"
 layout: default
 ---
-
-# MIDTERM LAB TASK 2
-### Using Loops and Functions
 
 ## Problem 1.
 Create an n x n Multiplication table using **Nested FOR Loop**. The user must enter the number of rows and columns that will be displayed in the Table.
