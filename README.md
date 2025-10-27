@@ -1,8 +1,9 @@
 <link rel="stylesheet" href="assets/css/custom.css">
 
 
-# Welcome to my Object Oriented Programming Portfolio!
-This collection of lab exercises showcases my journey through OOP—where I’ve learned to think in classes, objects, and smart design. From encapsulation to inheritance, each project reflects the core principles I’ve practiced and my growth as a programmer.
+# Welcome to my Object Oriented Programming Portfolio!  
+
+This collection of lab exercises showcases my journey through OOP.
 
 ---
 
@@ -13,9 +14,14 @@ This collection of lab exercises showcases my journey through OOP—where I’ve
 </p>
 
 Hello! I am **Noel Justine**, a 2nd-year college student of City College of Angeles, taking Bachelor of Science in Computer Science.  
-I finished my senior year at Angeles City National Trade School (ACNTS), taking the Technical Vocational Livelihood—Bread and Pastry Production & Food and Beverage Service.
 
 ## Area of Interest
+
+🎬 Movies and Series  
+  - Animations  
+  - Horror  
+  - Fantasy  
+🍳 Cooking and Baking  
 
 ---  
 
@@ -42,6 +48,9 @@ I finished my senior year at Angeles City National Trade School (ACNTS), taking 
 --- 
 
 ##  Fun Fact About Me:  
+
+- Before I started my college, I have little-to-zero knowledge about programming and computing.  
+- I like to casual talk to someone when I am doing projects, programming, etc.  
 
 ---
 
