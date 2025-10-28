@@ -1,16 +1,16 @@
-# Welcome to my Object Oriented Programming Portfolio!  
-
-This collection of lab exercises showcases my journey through OOP.
-
----
-
 ## ABOUT ME
 
-<p align="center">
-  <img src="OOP/noel.png" width="190" height="180"/>
-</p>
+<div style="display:flex; align-items:center; gap:20px; background-color:#1e1e1e; padding:20px; border-radius:10px;">
+  <img src="OOP/noel.png" alt="Profile Picture" width="150" style="border-radius:50%; border:2px solid #00bcd4;">
 
-Hello! I am **Noel Justine**, a 2nd-year college student of City College of Angeles, taking Bachelor of Science in Computer Science.  
+  <div style="color:#dcdcdc;">
+    <h2 style="margin:0; color:#00bcd4;">Noel Justine Diaz</h2>
+    <p style="margin:5px 0;">🎓 BS Computer Science Student</p>
+    <p style="margin:5px 0;">🏫 City College of Angeles</p>
+    <p style="margin:5px 0;">💻 Focus: Python, Object-Oriented Programming</p>
+    <p style="margin:5px 0;">📫 <a href="mailto:ndiaz24-0189@cca.edu.ph" style="color:#00bcd4;">ndiaz24-0189@cca.edu.ph</a></p>
+  </div>
+</div>
 
 ## Area of Interest
 
@@ -21,7 +21,7 @@ Hello! I am **Noel Justine**, a 2nd-year college student of City College of Ange
     
 🍳 Cooking and Baking  
 
----  
+* * *    
 
 ## Languages I used before 
 <p align="left"> 
@@ -33,7 +33,7 @@ Hello! I am **Noel Justine**, a 2nd-year college student of City College of Ange
 &nbsp;&nbsp;
 </p>
 
----
+* * *  
 
 ##  My Projects  
 
@@ -49,14 +49,14 @@ Hello! I am **Noel Justine**, a 2nd-year college student of City College of Ange
 
 **📂:** LAB TASK 1 - [ENCAPSULATION](https://noeljustine.github.io/7OOP-PORTFOLIO/FINALS/Lab1/) 
 
---- 
+* * *  
 
 ##  Fun Fact About Me:  
 
 - Before I started my college, I have little-to-zero knowledge about programming and computing.  
 - I like to casual talk to someone when I am doing projects, programming, etc.  
 
----
+* * *  
 
 ##  Click Below to Connect with Me!   
 
