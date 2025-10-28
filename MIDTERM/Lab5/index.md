@@ -7,7 +7,11 @@ description: "Creating Class and Instantiating Objects in Pythons"
 # MIDTERM - LABORATORY TASK 5
 ### Creating Class and Instantiating Objects in Pythons
 
-**Problem 1. Users in Social Media**
+* * *  
+
+<br>
+
+## Problem 1. Users in Social Media
 
 a. Create User Class with the ff: attributes (Use Constructor for this)  
     ∙ first_name  
@@ -117,9 +121,11 @@ Your friends are: justine, john doe
 Hi, I am john doe
 Profile Name is: john doe with 1000000 followers
 Your friends are: justine, noel, johny
-</code></pre>
+</pre>
   </div>  
 
----  
+* * *  
+
+<br>
 
 ### Go Back To [*Main Page*](https://noeljustine.github.io/7OOP-PORTFOLIO/)
