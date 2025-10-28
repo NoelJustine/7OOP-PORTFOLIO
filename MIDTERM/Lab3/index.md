@@ -6,8 +6,13 @@ layout: default
 
 # MIDTERM - LABORATORY TASK 3
 ### List Collections  
-    
-**Problem 1. Using List Collection type.***  
+
+* * *  
+
+<br>
+
+
+## Problem 1. Using List Collection type.  
 Create a program that will allow the user to perform the following **functions**: (add, update, search, delete, display, and sort) items in a list.  
 
 Note: You are free to decide what data you will be storing in the list and name the list based
@@ -212,9 +217,11 @@ Pick one: <span style="color:#00bcd4;">1</span>
 0 - Exit Program
 =======================
 Pick one: <span style="color:#00bcd4;">0</span>
-</code></pre>
+</pre>
 </div>
 
----  
+* * *  
+
+<br>
 
 ### Go Back To [*Main Page*](https://noeljustine.github.io/7OOP-PORTFOLIO/)
