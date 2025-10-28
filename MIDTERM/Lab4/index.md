@@ -7,6 +7,10 @@ description: "Dictionary Collections"
 # MIDTERM - LABORATORY TASK 4
 ### Dictionary Collection
 
+* * *  
+
+<br>
+
 ## Problem 1.
 Create the following UI for menu items: then allow the user to input orders
 <div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
@@ -26,7 +30,7 @@ Select and item (q to quit): <span style="color:#00bcd4;">q</span>
 ------ YOUR ORDER ------
 pizza soda
 Total is: $6.00
-</code></pre>
+</pre>
   </div>  
   
 The user will continue to input orders until q is typed to quit. Then display the summary of
@@ -121,9 +125,11 @@ brew      2    Php 100.00   Php 200.00
 mocha     1    Php 150.00   Php 150.00
 ----------------------------------------
 TOTAL                       Php 500.00
-</code></pre>
+</pre>
 </div>
 
----  
+* * *  
+
+<br>
 
 ### Go Back To [*Main Page*](https://noeljustine.github.io/7OOP-PORTFOLIO/)
