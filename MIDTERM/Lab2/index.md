@@ -7,7 +7,11 @@ layout: default
 # MIDTERM - LABORATORY TASK 2
 ### Loops and Functions
 
-**Problem 1.**  
+* * *  
+
+<br>
+
+## Problem 1. 
 Create an n x n Multiplication table using **Nested FOR Loop**. The user must enter the number of rows and columns that will be displayed in the Table.
 
 ### 💻 Source Code
@@ -36,7 +40,7 @@ Enter columns: <span style="color:#00bcd4;">10</span>
 8       16      24      32      40      48      56      64      72      80
 9       18      27      36      45      54      63      72      81      90
 10      20      30      40      50      60      70      80      90      100
-</code></pre>
+</pre>
   </div>
 
 <div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
@@ -50,10 +54,12 @@ Enter columns: <span style="color:#00bcd4;">4</span>
 5       10      15      20
 6       12      18      24
 7       14      21      28
-</code></pre>
+</pre>
   </div>
+
+<br>
   
-**Problem 2.**  
+## Problem 2.
 Create a bank program that will allow user to perform, use **Functions** as necessary.
 
 ### 💻 Source Code
@@ -157,9 +163,11 @@ Your Balance is  750
 3. Witdraw
 4. Exit
 Answer (1-4): <span style="color:#00bcd4;">4</span>
-</code></pre>
+</pre>
   </div>
 
 ---  
+
+<br>
 
 ### Go Back To [*Main Page*](https://noeljustine.github.io/7OOP-PORTFOLIO/)
