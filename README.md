@@ -1,5 +1,4 @@
 <style>
-/* Pulse Glow Animation (Profile Picture Only) */
 .glow-pulse {
   border-radius: 50%;
   border: 2px solid #00bcd4;
@@ -19,7 +18,6 @@
   }
 }
 
-/* Profile Card Layout */
 .profile-card {
   display:flex;
   align-items:center;
@@ -27,11 +25,11 @@
   background-color:#1e1e1e;
   padding:20px;
   border-radius:10px;
-  margin-top: 15px;   /* adds clean spacing under ABOUT ME */
+  margin-top: 15px;   
 }
 </style>
 
-<h1 style="text-align:center; color:#00bcd4; margin-bottom:10px;">ABOUT ME</h1>
+<h1 style="text-align:center; margin-bottom:10px;">Welcome to My Porfolio!</h1>
 
 <div class="profile-card">
   <img src="OOP/noel.png" alt="Profile Picture" width="150" class="glow-pulse">
@@ -50,16 +48,19 @@
 
 
 ## Area of Interest
+<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:20px;">
 
-<div style="display:flex; justify-content:flex-start; gap:40px;">
+ 
+  <div style="width:48%;">
+    <h3>🎬 Movies and Series</h3>
+    <p>Animations</a></p>
+    <p>Horror</a></p>
+    <p>Fantasy</a></p>
+  </div>
 
-  <div>
-    🎬 <b>Movies and Series</b><br>
-    - Animations<br>
-    - Horror<br>
-    - Fantasy<br><br>
 
-    🍳 <b>Cooking and Baking</b>
+  <div style="width:48%; text-align:left;">
+    <h3>🍳 Cooking and Baking</h3>
   </div>
 
 </div>
