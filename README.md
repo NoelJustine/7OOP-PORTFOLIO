@@ -1,20 +1,31 @@
----
-title: "📂7OOP PORTFOLIO"
-description: "by Noel Justine Diaz"
-layout: default
----
+<style>
+.glow-pulse {
+  border-radius: 50%;
+  border: 2px solid #00bcd4;
+  animation: pulseGlow 2.2s infinite ease-in-out;
+}
 
-<div style="display:flex; align-items:center; gap:20px; background-color:#1e1e1e; padding:20px; border-radius:10px;">
-  <img src="OOP/noel.png" alt="Profile Picture" width="150" style="border-radius:50%; border:2px solid #00bcd4;">
+@keyframes pulseGlow {
+  0% { box-shadow: 0 0 0px #00bcd4; }
+  50% { box-shadow: 0 0 12px #00bcd4; }
+  100% { box-shadow: 0 0 0px #00bcd4; }
+}
+</style>
 
-  <div style="color:#dcdcdc;">
+<h1 style="margin-top: 30px;">Welcome to My Portfolio</h1>
+
+<div style="display:flex; align-items:center; gap:20px; background-color:#161b22; padding:20px; border-radius:10px;">
+  <img src="OOP/noel.png" alt="Profile Picture" width="150" class="glow-pulse">
+
+  <div style="color:#dcdcdc; line-height:1.5;">
     <h2 style="margin:0; color:#00bcd4;">Noel Justine Diaz</h2>
-    <p style="margin:5px 0;">🎓 BS Computer Science Student</p>
-    <p style="margin:5px 0;">🏫 City College of Angeles</p>
-    <p style="margin:5px 0;">💻 Focus: Python, Object-Oriented Programming</p>
-    <p style="margin:5px 0;">📫 <a href="mailto:ndiaz24-0189@cca.edu.ph" style="color:#00bcd4;">ndiaz24-0189@cca.edu.ph</a></p>
+    <p>🎓 BS Computer Science Student</p>
+    <p>🏫 City College of Angeles</p>
+    <p>💻 Focus: Python, Object-Oriented Programming</p>
+    <p>📫 <a href="mailto:ndiaz24-0189@cca.edu.ph" style="color:#00bcd4;">ndiaz24-0189@cca.edu.ph</a></p>
   </div>
 </div>
+
 
 ## Area of Interest
 
