@@ -1,38 +1,73 @@
-<div style="display:flex; align-items:center; gap:25px; margin: 30px auto; max-width: 850px;">
 
-  <img src="OOP/noel.png" alt="Profile Picture" width="150" 
-       style="border-radius:50%; border:2px solid #00bcd4; 
-       animation: pulseGlow 2.2s infinite ease-in-out;">
+<div style="
+  display:flex; 
+  align-items:center; 
+  justify-content:space-between;
+  gap:30px;
+  padding:40px 20px;
+  margin:20px auto 40px auto;
+  max-width:1000px;
+  border-bottom:1px solid #2d333b;
+">
 
-  <div style="line-height:1.5;">
-    <h2 style="margin:0; color:#00bcd4;">Noel Justine Diaz</h2>
-    <p>🎓 BS Computer Science Student</p>
-    <p>🏫 City College of Angeles</p>
-    <p>💻 Focus: Python, Object-Oriented Programming</p>
-    <p>📫 <a href="mailto:ndiaz24-0189@cca.edu.ph" style="color:#00bcd4;">ndiaz24-0189@cca.edu.ph</a></p>
+ 
+  <img src="OOP/noel.png" width="200"
+       style="border-radius:50%; border:3px solid #00bcd4;
+              animation:pulseGlow 2.2s infinite ease-in-out;">
+
+  
+  <div style="text-align:left;">
+
+    <h1 style="margin:0; color:#00bcd4; font-size:2.2em;">
+      Noel Justine Diaz
+    </h1>
+
+    <p style="margin:8px 0; font-size:1.1em; color:#dcdcdc;">
+      🎓 BS Computer Science Student  
+      <br>🏫 City College of Angeles  
+      <br>💻 Python & Object-Oriented Programming  
+    </p>
+
+    <p style="margin-top:12px;">
+      <a href="mailto:ndiaz24-0189@cca.edu.ph" 
+         style="color:#00bcd4; font-size:1.1em;">
+        📫 Contact Me
+      </a>
+    </p>
+
   </div>
 </div>
 
 <style>
 @keyframes pulseGlow {
-  0% { box-shadow: 0 0 0px #00bcd4; }
-  50% { box-shadow: 0 0 12px #00bcd4; }
-  100% { box-shadow: 0 0 0px #00bcd4; }
+  0% { box-shadow:0 0 0px #00bcd4; }
+  50% { box-shadow:0 0 16px #00bcd4; }
+  100% { box-shadow:0 0 0px #00bcd4; }
 }
 </style>
 
 
 
+
 ## Area of Interest
 
-🎬 Movies and Series  
-  - Animations  
-  - Horror  
-  - Fantasy
-    
-🍳 Cooking and Baking  
+<div style="display:flex; gap:40px; justify-content:center; margin-top:20px;">
+  
+  <div>
+    <h3 style="color:#00bcd4; margin-bottom:8px;">🎬 Movies & Series</h3>
+    <ul>
+      <li>Animations</li>
+      <li>Horror</li>
+      <li>Fantasy</li>
+    </ul>
+  </div>
 
-* * *    
+  <div>
+    <h3 style="color:#00bcd4; margin-bottom:8px;">🍳 Cooking & Baking</h3>
+    <p>I enjoy exploring recipes and experimenting with food.</p>
+  </div>
+
+</div>
 
 ## Languages I used before 
 <p align="left"> 
@@ -44,30 +79,32 @@
 &nbsp;&nbsp;
 </p>
 
-* * *  
+## My Projects
 
-##  My Projects  
+<div style="display:flex; justify-content:center; gap:50px; margin-top:20px;">
 
-###  MIDTERM  
+  <div>
+    <h3 style="color:#00bcd4;">MIDTERM</h3>
+    <p>📂 <a href="MIDTERM/Lab1/">Lab Task 1 — Python Fundamentals</a></p>
+    <p>📂 <a href="MIDTERM/Lab2/">Lab Task 2 — Loops & Functions</a></p>
+    <p>📂 <a href="MIDTERM/Lab3/">Lab Task 3 — List Collection</a></p>
+    <p>📂 <a href="MIDTERM/Lab4/">Lab Task 4 — Dictionary Collection</a></p>
+    <p>📂 <a href="MIDTERM/Lab5/">Lab Task 5 — Class & Objects</a></p>
+  </div>
 
-**📂:** LAB TASK 1 - [PYTHON FUNDAMENTALS](https://noeljustine.github.io/7OOP-PORTFOLIO/MIDTERM/Lab1/)  
-**📂:** LAB TASK 2 - [LOOPS AND FUNCTIONS](https://noeljustine.github.io/7OOP-PORTFOLIO/MIDTERM/Lab2/)  
-**📂:** LAB TASK 3 - [LIST COLLECTION](https://noeljustine.github.io/7OOP-PORTFOLIO/MIDTERM/Lab3/)  
-**📂:** LAB TASK 4 - [DICTIONARY COLLECTION](https://noeljustine.github.io/7OOP-PORTFOLIO/MIDTERM/Lab4/)  
-**📂:** LAB TASK 5 - [CLASS AND OBJECTS](https://noeljustine.github.io/7OOP-PORTFOLIO/MIDTERM/Lab5/)  
+  <div>
+    <h3 style="color:#00bcd4;">FINALS</h3>
+    <p>📂 <a href="FINALS/Lab1/">Lab Task 1 — Encapsulation</a></p>
+  </div>
 
-### FINALS
+</div>
 
-**📂:** LAB TASK 1 - [ENCAPSULATION](https://noeljustine.github.io/7OOP-PORTFOLIO/FINALS/Lab1/) 
-
-* * *  
 
 ##  Fun Fact About Me:  
 
 - Before I started my college, I have little-to-zero knowledge about programming and computing.  
 - I like to casual talk to someone when I am doing projects, programming, etc.  
 
-* * *  
 
 ##  Click Below to Connect with Me!   
 
