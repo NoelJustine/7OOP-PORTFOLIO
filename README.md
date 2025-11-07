@@ -1,4 +1,16 @@
 <style>
+  .section-2col {
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-start;
+  gap:20px;
+  width:100%;
+}
+.section-left, .section-right {
+  width:48%;
+}
+
+  
 .glow-pulse {
   border-radius: 50%;
   border: 2px solid #00bcd4;
@@ -63,10 +75,9 @@
 <br>
 
 ## Area of Interest
-<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:20px;">
+<div class="section-2col">
 
- 
-  <div style="width:48%;">
+  <div class="section-left">
     <h3>🎬 Movies and Series</h3>
     <p>ANIMATION/ANIME: Animation films with strong art style</p>
     <p>HORROR: Psychological thrillers, Found-footage style films</p>
@@ -74,8 +85,7 @@
     <p>Anthology shows (different story each episode/season)</p>
   </div>
 
-
-  <div style="width:48%; text-align:left;">
+  <div class="section-right">
     <h3>🍳 Cooking and Baking</h3>
     <p>Experimenting with simple recipes</p>
     <p>Watching cooking tutorial videos</p>
@@ -84,6 +94,7 @@
   </div>
 
 </div>
+
 
 <br>
 
@@ -100,11 +111,9 @@
 <br>
 
 ## My Projects
+<div class="section-2col">
 
-<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:20px;">
-
-  
-  <div style="width:48%;">
+  <div class="section-left">
     <h3>MIDTERM</h3>
     <p>📂 LAB TASK 1 - <a href="MIDTERM/Lab1/">PYTHON FUNDAMENTALS</a></p>
     <p>📂 LAB TASK 2 - <a href="MIDTERM/Lab2/">LOOPS AND FUNCTIONS</a></p>
@@ -113,13 +122,13 @@
     <p>📂 LAB TASK 5 - <a href="MIDTERM/Lab5/">CLASS AND OBJECTS</a></p>
   </div>
 
-  
-  <div style="width:48%; text-align:left;">
+  <div class="section-right">
     <h3>FINALS</h3>
     <p>📂 LAB TASK 1 - <a href="FINALS/Lab1/">ENCAPSULATION</a></p>
   </div>
 
 </div>
+
 
 <br>
 
