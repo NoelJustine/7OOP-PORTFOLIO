@@ -1,20 +1,8 @@
-<style>
-.glow-pulse {
-  border-radius: 50%;
-  border: 2px solid #00bcd4;
-  animation: pulseGlow 2.2s infinite ease-in-out;
-}
+<br>
 
-@keyframes pulseGlow {
-  0% { box-shadow: 0 0 0px #00bcd4; }
-  50% { box-shadow: 0 0 12px #00bcd4; }
-  100% { box-shadow: 0 0 0px #00bcd4; }
-}
-</style>
+<h1 style="margin-top: 10px; margin-bottom: 25px;">Welcome to My Portfolio</h1>
 
-<h1 style="margin-top: 30px;">Welcome to My Portfolio</h1>
-
-<div style="display:flex; align-items:center; gap:20px; background-color:#161b22; padding:20px; border-radius:10px;">
+<div style="display:flex; align-items:center; gap:20px; margin-bottom: 25px;">
   <img src="OOP/noel.png" alt="Profile Picture" width="150" class="glow-pulse">
 
   <div style="color:#dcdcdc; line-height:1.5;">
@@ -25,6 +13,7 @@
     <p>📫 <a href="mailto:ndiaz24-0189@cca.edu.ph" style="color:#00bcd4;">ndiaz24-0189@cca.edu.ph</a></p>
   </div>
 </div>
+
 
 
 ## Area of Interest
