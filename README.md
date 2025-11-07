@@ -35,7 +35,6 @@
 
 <div class="profile-card">
 
-  <!-- LEFT SIDE: PIC + BASIC DETAILS -->
   <div class="profile-left">
     <img src="OOP/noel.png" alt="Profile Picture" width="150" class="glow-pulse">
 
@@ -48,37 +47,46 @@
     </div>
   </div>
 
-  <!-- RIGHT SIDE: FUN FACTS -->
   <div style="color:#dcdcdc; max-width:45%;">
     <h3 style="margin-top:0; color:#00bcd4;">Fun Facts About Me</h3>
     <ul style="margin:0; padding-left:20px;">
       <li>Before college, I had little-to-zero knowledge about programming.</li>
       <li>I like casual talking with someone while coding or doing projects.</li>
+      <li>I learn fastest by experimenting.</li>
+      <li>I sometimes overthink before writing code.</li>
+      <li>I retain concepts better when I apply it right away.</li>
     </ul>
   </div>
 
 </div>
 
 <br>
+
 ## Area of Interest
 <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:20px;">
 
  
   <div style="width:48%;">
     <h3>🎬 Movies and Series</h3>
-    <p>Animations</p>
-    <p>Horror</p>
-    <p>Fantasy</p>
+    <p>Animations/Anime: Animation films with strong art style</p>
+    <p>Horror: Psychological thrillers, Found-footage style films</p>
+    <p>Fantasy: Adventure & world-building films</p>
+    <p>Anthology shows (different story each episode/season)</p>
   </div>
 
 
   <div style="width:48%; text-align:left;">
     <h3>🍳 Cooking and Baking</h3>
+    <p>Experimenting with simple recipes</p>
+    <p>Watching cooking tutorial videos</p>
+    <p>Enjoying well-plated food</p>
+    <p>Making desserts like brownies/cookies</p>
   </div>
 
 </div>
 
 <br>
+
 ## Languages I used before 
 <p align="left"> 
 <img src="OOP/Java-Logo.png" height="50"/>  
@@ -90,11 +98,12 @@
 </p>
 
 <br>
+
 ## My Projects
 
 <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:20px;">
 
-  <!-- LEFT (Midterm) -->
+  
   <div style="width:48%;">
     <h3>MIDTERM</h3>
     <p>📂 LAB TASK 1 - <a href="MIDTERM/Lab1/">PYTHON FUNDAMENTALS</a></p>
@@ -104,7 +113,7 @@
     <p>📂 LAB TASK 5 - <a href="MIDTERM/Lab5/">CLASS AND OBJECTS</a></p>
   </div>
 
-  <!-- RIGHT (Finals) -->
+  
   <div style="width:48%; text-align:left;">
     <h3>FINALS</h3>
     <p>📂 LAB TASK 1 - <a href="FINALS/Lab1/">ENCAPSULATION</a></p>
@@ -113,6 +122,7 @@
 </div>
 
 <br>
+
 ##  Click Below to Connect with Me!   
 
 <p align="left">
