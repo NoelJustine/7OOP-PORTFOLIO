@@ -68,9 +68,9 @@
  
   <div style="width:48%;">
     <h3>🎬 Movies and Series</h3>
-    <p>Animations/Anime: Animation films with strong art style</p>
-    <p>Horror: Psychological thrillers, Found-footage style films</p>
-    <p>Fantasy: Adventure & world-building films</p>
+    <p>ANIMATION/ANIME: Animation films with strong art style</p>
+    <p>HORROR: Psychological thrillers, Found-footage style films</p>
+    <p>FANTASY: Adventure & world-building films</p>
     <p>Anthology shows (different story each episode/season)</p>
   </div>
 
