@@ -1,73 +1,69 @@
+<style>
+/* Pulse Glow Animation (Profile Picture Only) */
+.glow-pulse {
+  border-radius: 50%;
+  border: 2px solid #00bcd4;
+  padding: 0;
+  animation: pulseGlow 2.2s infinite ease-in-out;
+}
 
-<div style="
-  display:flex; 
-  align-items:center; 
-  justify-content:space-between;
-  gap:30px;
-  padding:40px 20px;
-  margin:20px auto 40px auto;
-  max-width:1000px;
-  border-bottom:1px solid #2d333b;
-">
+@keyframes pulseGlow {
+  0% {
+    box-shadow: 0 0 0px #00bcd4;
+  }
+  50% {
+    box-shadow: 0 0 18px #00bcd4;
+  }
+  100% {
+    box-shadow: 0 0 0px #00bcd4;
+  }
+}
 
- 
-  <img src="OOP/noel.png" width="200"
-       style="border-radius:50%; border:3px solid #00bcd4;
-              animation:pulseGlow 2.2s infinite ease-in-out;">
+/* Profile Card Layout */
+.profile-card {
+  display:flex;
+  align-items:center;
+  gap:20px;
+  background-color:#1e1e1e;
+  padding:20px;
+  border-radius:10px;
+  margin-top: 15px;   /* adds clean spacing under ABOUT ME */
+}
+</style>
 
-  
-  <div style="text-align:left;">
+<h1 style="text-align:center; color:#00bcd4; margin-bottom:10px;">ABOUT ME</h1>
 
-    <h1 style="margin:0; color:#00bcd4; font-size:2.2em;">
-      Noel Justine Diaz
-    </h1>
-
-    <p style="margin:8px 0; font-size:1.1em; color:#dcdcdc;">
-      🎓 BS Computer Science Student  
-      <br>🏫 City College of Angeles  
-      <br>💻 Python & Object-Oriented Programming  
-    </p>
-
-    <p style="margin-top:12px;">
-      <a href="mailto:ndiaz24-0189@cca.edu.ph" 
-         style="color:#00bcd4; font-size:1.1em;">
-        📫 Contact Me
-      </a>
-    </p>
-
+<div class="profile-card">
+  <img src="OOP/noel.png" alt="Profile Picture" width="150" class="glow-pulse">
+  <div style="color:#dcdcdc;">
+    <h2 style="margin:0; color:#00bcd4;">Noel Justine Diaz</h2>
+    <p style="margin:5px 0;">🎓 BS Computer Science Student</p>
+    <p style="margin:5px 0;">🏫 City College of Angeles</p>
+    <p style="margin:5px 0;">💻 Focus: Python, Object-Oriented Programming</p>
+    <p style="margin:5px 0;">📫 <a href="mailto:ndiaz24-0189@cca.edu.ph" style="color:#00bcd4;">ndiaz24-0189@cca.edu.ph</a></p>
   </div>
 </div>
 
-<style>
-@keyframes pulseGlow {
-  0% { box-shadow:0 0 0px #00bcd4; }
-  50% { box-shadow:0 0 16px #00bcd4; }
-  100% { box-shadow:0 0 0px #00bcd4; }
-}
-</style>
+
 
 
 
 
 ## Area of Interest
 
-<div style="display:flex; gap:40px; justify-content:center; margin-top:20px;">
-  
-  <div>
-    <h3 style="color:#00bcd4; margin-bottom:8px;">🎬 Movies & Series</h3>
-    <ul>
-      <li>Animations</li>
-      <li>Horror</li>
-      <li>Fantasy</li>
-    </ul>
-  </div>
+<div style="display:flex; justify-content:flex-start; gap:40px;">
 
   <div>
-    <h3 style="color:#00bcd4; margin-bottom:8px;">🍳 Cooking & Baking</h3>
-    <p>I enjoy exploring recipes and experimenting with food.</p>
+    🎬 <b>Movies and Series</b><br>
+    - Animations<br>
+    - Horror<br>
+    - Fantasy<br><br>
+
+    🍳 <b>Cooking and Baking</b>
   </div>
 
 </div>
+
 
 ## Languages I used before 
 <p align="left"> 
@@ -81,20 +77,22 @@
 
 ## My Projects
 
-<div style="display:flex; justify-content:center; gap:50px; margin-top:20px;">
+<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:20px;">
 
-  <div>
-    <h3 style="color:#00bcd4;">MIDTERM</h3>
-    <p>📂 <a href="MIDTERM/Lab1/">Lab Task 1 — Python Fundamentals</a></p>
-    <p>📂 <a href="MIDTERM/Lab2/">Lab Task 2 — Loops & Functions</a></p>
-    <p>📂 <a href="MIDTERM/Lab3/">Lab Task 3 — List Collection</a></p>
-    <p>📂 <a href="MIDTERM/Lab4/">Lab Task 4 — Dictionary Collection</a></p>
-    <p>📂 <a href="MIDTERM/Lab5/">Lab Task 5 — Class & Objects</a></p>
+  <!-- LEFT (Midterm) -->
+  <div style="width:48%;">
+    <h3>MIDTERM</h3>
+    <p>📂 LAB TASK 1 - <a href="MIDTERM/Lab1/">PYTHON FUNDAMENTALS</a></p>
+    <p>📂 LAB TASK 2 - <a href="MIDTERM/Lab2/">LOOPS AND FUNCTIONS</a></p>
+    <p>📂 LAB TASK 3 - <a href="MIDTERM/Lab3/">LIST COLLECTION</a></p>
+    <p>📂 LAB TASK 4 - <a href="MIDTERM/Lab4/">DICTIONARY COLLECTION</a></p>
+    <p>📂 LAB TASK 5 - <a href="MIDTERM/Lab5/">CLASS AND OBJECTS</a></p>
   </div>
 
-  <div>
-    <h3 style="color:#00bcd4;">FINALS</h3>
-    <p>📂 <a href="FINALS/Lab1/">Lab Task 1 — Encapsulation</a></p>
+  <!-- RIGHT (Finals) -->
+  <div style="width:48%; text-align:left;">
+    <h3>FINALS</h3>
+    <p>📂 LAB TASK 1 - <a href="FINALS/Lab1/">ENCAPSULATION</a></p>
   </div>
 
 </div>
