@@ -1,4 +1,8 @@
-## ABOUT ME
+---
+title: "📂7OOP PORTFOLIO"
+description: "by Noel Justine Diaz"
+layout: default
+---
 
 <div style="display:flex; align-items:center; gap:20px; background-color:#1e1e1e; padding:20px; border-radius:10px;">
   <img src="OOP/noel.png" alt="Profile Picture" width="150" style="border-radius:50%; border:2px solid #00bcd4;">
