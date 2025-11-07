@@ -7,55 +7,68 @@
 }
 
 @keyframes pulseGlow {
-  0% {
-    box-shadow: 0 0 0px #00bcd4;
-  }
-  50% {
-    box-shadow: 0 0 18px #00bcd4;
-  }
-  100% {
-    box-shadow: 0 0 0px #00bcd4;
-  }
+  0% { box-shadow: 0 0 0px #00bcd4; }
+  50% { box-shadow: 0 0 18px #00bcd4; }
+  100% { box-shadow: 0 0 0px #00bcd4; }
 }
 
 .profile-card {
   display:flex;
-  align-items:center;
+  justify-content:space-between;
+  align-items:flex-start;
   gap:20px;
   background-color:#1e1e1e;
   padding:20px;
   border-radius:10px;
   margin-top: 15px;   
 }
+
+.profile-left {
+  display:flex;
+  align-items:center;
+  gap:20px;
+}
+
 </style>
 
 <h1 style="text-align:center; margin-bottom:10px;">Welcome to My Porfolio!</h1>
 
 <div class="profile-card">
-  <img src="OOP/noel.png" alt="Profile Picture" width="150" class="glow-pulse">
-  <div style="color:#dcdcdc;">
-    <h2 style="margin:0; color:#00bcd4;">Noel Justine Diaz</h2>
-    <p style="margin:5px 0;">🎓 BS Computer Science Student</p>
-    <p style="margin:5px 0;">🏫 City College of Angeles</p>
-    <p style="margin:5px 0;">💻 Focus: Python, Object-Oriented Programming</p>
-    <p style="margin:5px 0;">📫 <a href="mailto:ndiaz24-0189@cca.edu.ph" style="color:#00bcd4;">ndiaz24-0189@cca.edu.ph</a></p>
+
+  <!-- LEFT SIDE: PIC + BASIC DETAILS -->
+  <div class="profile-left">
+    <img src="OOP/noel.png" alt="Profile Picture" width="150" class="glow-pulse">
+
+    <div style="color:#dcdcdc;">
+      <h2 style="margin:0; color:#00bcd4;">Noel Justine Diaz</h2>
+      <p style="margin:5px 0;">🎓 BS Computer Science Student</p>
+      <p style="margin:5px 0;">🏫 City College of Angeles</p>
+      <p style="margin:5px 0;">💻 Focus: Python, Object-Oriented Programming</p>
+      <p style="margin:5px 0;">📫 <a href="mailto:ndiaz24-0189@cca.edu.ph" style="color:#00bcd4;">ndiaz24-0189@cca.edu.ph</a></p>
+    </div>
   </div>
+
+  <!-- RIGHT SIDE: FUN FACTS -->
+  <div style="color:#dcdcdc; max-width:45%;">
+    <h3 style="margin-top:0; color:#00bcd4;">Fun Facts About Me</h3>
+    <ul style="margin:0; padding-left:20px;">
+      <li>Before college, I had little-to-zero knowledge about programming.</li>
+      <li>I like casual talking with someone while coding or doing projects.</li>
+    </ul>
+  </div>
+
 </div>
 
-
-
-
-
-
+<br>
 ## Area of Interest
 <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:20px;">
 
  
   <div style="width:48%;">
     <h3>🎬 Movies and Series</h3>
-    <p>Animations</a></p>
-    <p>Horror</a></p>
-    <p>Fantasy</a></p>
+    <p>Animations</p>
+    <p>Horror</p>
+    <p>Fantasy</p>
   </div>
 
 
@@ -65,7 +78,7 @@
 
 </div>
 
-
+<br>
 ## Languages I used before 
 <p align="left"> 
 <img src="OOP/Java-Logo.png" height="50"/>  
@@ -76,6 +89,7 @@
 &nbsp;&nbsp;
 </p>
 
+<br>
 ## My Projects
 
 <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:20px;">
@@ -98,13 +112,7 @@
 
 </div>
 
-
-##  Fun Fact About Me:  
-
-- Before I started my college, I have little-to-zero knowledge about programming and computing.  
-- I like to casual talk to someone when I am doing projects, programming, etc.  
-
-
+<br>
 ##  Click Below to Connect with Me!   
 
 <p align="left">
