@@ -6,12 +6,14 @@ layout: default
 
 # FINALS - LABORATORY TASK 1
 **Encapsulations**  
-
+  
+  
 <br>
-
+  
+  
 ### INSTRUCTION
 For this program, you are tasked to define the following:  
-
+  
 - Class - Car:  
     - Properties:  
         - **color** (type: str): Represents the color of the car.  
@@ -33,11 +35,13 @@ For this program, you are tasked to define the following:
             - Example Strings:  
                 - For a red car priced at 19999.85 and of medium size: "Car (red) - P19999.85-medium"  
                 - For a blue car priced at 50000.00 and large: "Car (blue) - P50000.00 - large"
+   
              
 <br>
-
-
+  
+  
 ### 💻 Source Code
+  
 ```python
 class Car:
     def __init__(self,color:str,price:float,size:str):
@@ -87,10 +91,11 @@ if __name__ == '__main__':
     )
     print(f"Output:\n{c1}\n\n")
 ```
-
+  
+  
 <br>
-
-
+  
+  
 ### 🧾 Sample Output
 <div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
 <pre style="margin:0; white-space:pre;">Action: Invoking the Car Class constructor using Car("Red", 10000.00, 'S').
@@ -103,7 +108,9 @@ Output:
 Car (Blue)      - P20000.00     - M
 </pre>
   </div>
-
+  
+  
 <br>
-
+  
+  
 ### Go Back To [*Main Page*](https://noeljustine.github.io/7OOP-PORTFOLIO/)
