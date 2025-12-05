@@ -9,7 +9,7 @@ layout: default
 
 <br>
 
-
+### INSTRUCTION
 For this program, you are tasked to define the following:  
 
 - Class - Car:  
@@ -32,7 +32,10 @@ For this program, you are tasked to define the following:
             - **__str__(self) -> str**: Returns a formatted string representing the car, following the format *"Car (color) - P(price, formatted to two decimal places) - (size descriptor)"*. The size descriptor is determined based on the size character (*'small'* for *'S'*, *'medium'* for *'M'*, and *'large'* for *'L'*).  
             - Example Strings:  
                 - For a red car priced at 19999.85 and of medium size: "Car (red) - P19999.85-medium"  
-                - For a blue car priced at 50000.00 and large: "Car (blue) - P50000.00 - large"  
+                - For a blue car priced at 50000.00 and large: "Car (blue) - P50000.00 - large"
+             
+<br>
+
 
 ### 💻 Source Code
 ```python
