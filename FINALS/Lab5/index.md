@@ -1,4 +1,4 @@
-<img width="598" height="307" alt="image" src="https://github.com/user-attachments/assets/36fa3b1f-1c36-4c23-8478-791659e8cf44" />---
+---
 title: "FINALS - LABORATORY TASK 5"
 description: "CLI using Mysql and Python"
 layout: default
@@ -13,13 +13,12 @@ layout: default
 
 ### INSTRUCTION
 
-1. Make sure you have installed the following pre-requisites before proceeding:
-  - a. Mysql-connector
-  - b. Mysql-connector-python
-  - c. Xampp is running along with Apache and Mysql in the background
-2. Create the following database in Mysql;
-  - a. Database name: moviesDB with the ff: fields:
-
+- Make sure you have installed the following pre-requisites before proceeding:
+  - Mysql-connector
+  - Mysql-connector-python
+  - Xampp is running along with Apache and Mysql in the background
+- Create the following database in Mysql;
+  - Database name: moviesDB with the ff: fields:
     - movie_id int(10) Primary Key
     - title varchar(50) NOT NULL
     - main_actor varchar(50) NOT NULL
@@ -27,15 +26,14 @@ layout: default
     - genre varchar(25) NOT NULL
     - gross_sales float
     - ratings (G, PG, R13, R16,X) varchar(5)
-
-  - b. Insert at_least 5 records
-  - c. Create a user named test_user and assign a password and give it an admin
+  - Insert at_least 5 records
+  - Create a user named test_user and assign a password and give it an admin
 access by checking necessary SQL functions
-
-3. Guided by the Demo code attached in this task. test_DemoDB.py
-4. Kindly continue working on the code that will allow the user to navigate through the
-Database and perform simple CRUD operations. Follow the following CLI **Menu
+- Guided by the Demo code attached in this task. test_DemoDB.py
+- Kindly continue working on the code that will allow the user to navigate through the
+Database and perform simple CRUD operations. Follow the following **CLI Menu
 Options:**
+  
 <div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
 <pre style="margin:0; white-space:pre;">----- MOVIE DATABASE CLI -----
 1. Add Movie
@@ -48,23 +46,23 @@ Options:**
 Select an option (1-6): 
 </pre>
   </div>
-
-5. The user should be able perform the ff: in your program.  
-**MOVIE DATABASE CRUD APP**
-  1 - Add New Record
-  2 - View all records,
-  3 - Update a Record and show the updates,
-  4 - Delete a record
-  **5 - Search A Record**
-  6 - Display **Total Numbers** of Movies stored in the database
-  7 - Exit
-6. For additional challenge, Task – You are to add a **SEARCH option** in the MENU that will
+  
+- The user should be able perform the ff: in your program.  
+**MOVIE DATABASE CRUD APP**  
+  1 - Add New Record  
+  2 - View all records,  
+  3 - Update a Record and show the updates,  
+  4 - Delete a record  
+  **5 - Search A Record**  
+  6 - Display **Total Numbers** of Movies stored in the database  
+  7 - Exit  
+- For additional challenge, Task – You are to add a **SEARCH option** in the MENU that will
 allow the user to search by Name or emp_id, then display the information about the
 record being search. You may use Like statement and fetchOne method in my SQL to
-do this,
-7. You are also going to add a method that will display the the **total number of records** in
+do this.
+- You are also going to add a method that will display the the **total number of records** in
 your database – You may use SQL count statement for this.
-8. What to submit:
+- What to submit:
   - a. UI Menu
   - b. Sample Output
   - c. Source Code
@@ -73,6 +71,10 @@ your database – You may use SQL count statement for this.
 <br>
 
 ### 💻 Source Code
+  
+**MYSQL FILE**
+[moviesdb.sql](https://github.com/NoelJustine/7OOP-PORTFOLIO/blob/main/FINALS/Lab5/moviesdb.sql).
+  
 ```python
 import mysql.connector
 
