@@ -68,7 +68,9 @@ your database – You may use SQL count statement for this.
   - c. Source Code
   - d. Exported sql file
 
+
 <br>
+
 
 ### 💻 Source Code
   
@@ -78,10 +80,10 @@ your database – You may use SQL count statement for this.
 import mysql.connector
 
 conn = mysql.connector.connect(
-    host="localhost",  # Replace with your MySQL host (e.g., IP address or hostname)
-    user="test_user",  # Replace with your MySQL username
-    password="password",  # Replace with your MySQL password
-    database="moviesdb"  # Replace with the name of your database
+    host="localhost",
+    user="test_user",
+    password="password",
+    database="moviesdb"
 )
 
 cursor = conn.cursor()
@@ -199,10 +201,11 @@ def main_menu():
 if __name__ == '__main__':
     main_menu()
 ```
-
+  
+  
 <br>
-
-
+  
+  
 ### 🧾 Sample Output
 <div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
 <pre style="margin:0; white-space:pre;">----- MOVIE DATABASE CLI -----
@@ -312,9 +315,9 @@ Movies List:
 (117, 'Sanggre', 'Mark', 'Justine', 'Fantasy', 100.0, 'PG')
 </pre>
   </div>
-
-
+  
+  
 <br>
-
-
+  
+  
 ### Go Back To [*Main Page*](https://noeljustine.github.io/7OOP-PORTFOLIO/)
