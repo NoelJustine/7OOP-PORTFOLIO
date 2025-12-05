@@ -72,8 +72,7 @@ your database – You may use SQL count statement for this.
 
 ### 💻 Source Code
   
-**MYSQL FILE**
-[moviesdb.sql](https://github.com/NoelJustine/7OOP-PORTFOLIO/blob/main/FINALS/Lab5/moviesdb.sql).
+**MYSQL FILE** - [moviesdb.sql](https://github.com/NoelJustine/7OOP-PORTFOLIO/blob/main/FINALS/Lab5/moviesdb.sql)
   
 ```python
 import mysql.connector
