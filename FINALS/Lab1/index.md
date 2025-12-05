@@ -18,7 +18,7 @@ For this program, you are tasked to define the following:
         - **price** (type: float): Holds the price of the car.    
         - **size** (type: str): Indicates the size of the car, where *'S'* represents small, *'M'* represents medium, and 'L' represents large.  
     - Constructor:  
-        - **_init_(self, color: str, price: float, size: str)**: Initializes the car's **color**, **price**, and **size** properties. The **size** is standardized to uppercase using **size.upper()**.    
+        - **__init__(self, color: str, price: float, size: str)**: Initializes the car's **color**, **price**, and **size** properties. The **size** is standardized to uppercase using **size.upper()**.    
     - Methods  
         - Getter Methods:  
             - **get_color(self) -> str**: Returns the car's color.   
