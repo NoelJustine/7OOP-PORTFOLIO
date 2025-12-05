@@ -6,20 +6,22 @@ layout: default
 
 # FINALS - LABORATORY TASK 2
 **Inheritance**
-
+  
+  
 <br>
-
-### PROBLEM 
-**SCHOOL PERFORMANCE**
-
+  
+  
+### INSTRUCTION
+**PROBLEM. School Performance**  
+  
 **Note - You are to create 4 separate python files for this task:**  
 - **performer.py(base class)**  
 - **singer.py(sub class)**  
 - **dancer.py(sub class)**  
 - **test_class.py - following the required test cases**  
-
+  
 In a school musical performance, different types of performers participate. For this program, we will be implementing the performers.  
-
+  
 Base Class - Performer:  
   - Properties:  
     - **name** (type: str): Represents the name of the performer.  
@@ -28,7 +30,7 @@ Base Class - Performer:
     - **__init__(self, name: str, age: int)**: Initializes the **name** and **age** properties.  
   - Getters  
     - **get_name(self) -> str**: Returns the name  
-    - **get_age(self) -> int**: Returns the age
+    - **get_age(self) -> int**: Returns the age  
       
 Subclass - Singer:  
   - Inherits From: **Performer**
@@ -51,10 +53,12 @@ properties by calling the parent class's constructor and sets the **dance_style*
   - Methods:  
     - **dance(self) -> None**: Prints *"{name} is performing {dance_style} dance."*  
    
+  
 <br>
 
 
 ### 💻 Source Code
+  
 #### performer.py
 ```python
 class Performer:
@@ -69,7 +73,7 @@ class Performer:
     def get_age(self):
         return self._age
 ```
-
+  
 #### singer.py
 ``` python
 from performer import Performer
@@ -86,7 +90,7 @@ class Singer(Performer):
     def sing(self):
         print(f"{self._name} is singing with {self._vocal_range} range.")
 ```
-
+  
 #### dancer.py
 ``` python
 from performer import Performer
@@ -103,7 +107,7 @@ class Dancer(Performer):
     def dance(self):
         print(f"{self._name} is performing {self._dance_style} dance.")
 ```
-
+  
 #### test_class.py
 ``` python
 from performer import Performer
@@ -124,9 +128,11 @@ if __name__ == '__main__':
     print(f"Singer 1 - Name: {s1.get_name()}, Age: {s1.get_age()}")
     s1.sing()
 ```
-
+  
+  
 <br>
-
+  
+  
 ### 🧾 Sample Output
 <div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
 <pre style="margin:0; white-space:pre;">Performer 1 - Name: Noel, Age: 38
@@ -138,7 +144,9 @@ Singer 1 - Name: Justine, Age: 21
 Justine is singing with Baritone range.
 </pre>
   </div>
-
+  
+  
 <br>
-
+  
+  
 ### Go Back To [*Main Page*](https://noeljustine.github.io/7OOP-PORTFOLIO/)
