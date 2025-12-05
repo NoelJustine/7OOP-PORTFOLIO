@@ -64,9 +64,10 @@
     <ul style="margin:0; padding-left:20px;">
       <li>🏫 Angeles City National Trade School (SHS)</li>
       <li>- 🎓 Technical Vocational Livelihood</li>
-      <li>  - School Year of 2022 - 2024</li>
+      <li>-- School Year of 2022 - 2024</li>
+      <br>
       <li>🏫 Angeles City National Trade School (JHS)</li>
-      <li>  - School Year of 2018 - 2022</li>
+      <li>-- School Year of 2018 - 2022</li>
     </ul>
   </div>
 
