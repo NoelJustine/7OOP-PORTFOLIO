@@ -60,13 +60,13 @@
   </div>
 
   <div style="color:#dcdcdc; max-width:45%;">
-    <h3 style="margin-top:0; color:#00bcd4;">Fun Facts About Me</h3>
+    <h3 style="margin-top:0; color:#00bcd4;">Education</h3>
     <ul style="margin:0; padding-left:20px;">
-      <li>Before college, I had little-to-zero knowledge about programming.</li>
-      <li>I like casual talking with someone while coding or doing projects.</li>
-      <li>I learn fastest by experimenting.</li>
-      <li>I sometimes overthink before writing code.</li>
-      <li>I retain concepts better when I apply it right away.</li>
+      <li>🏫 Angeles City National Trade School (SHS)</li>
+      <li>- 🎓 Technical Vocational Livelihood</li>
+      <li>  - School Year of 2022 - 2024</li>
+      <li>🏫 Angeles City National Trade School (JHS)</li>
+      <li>  - School Year of 2018 - 2022</li>
     </ul>
   </div>
 
@@ -125,12 +125,27 @@
   <div class="section-right">
     <h3>FINALS</h3>
     <p>📂 LAB TASK 1 - <a href="FINALS/Lab1/">ENCAPSULATION</a></p>
+    <p>📂 LAB TASK 2 - <a href="FINALS/Lab2/">INHERITANCE</a></p>
+    <p>📂 LAB TASK 3 - <a href="FINALS/Lab3/">POLYMORPHISM</a></p>
+    <p>📂 LAB TASK 5 - <a href="FINALS/Lab5/">CLI USING MYSQL AND PYTHON</a></p>
   </div>
 
 </div>
 
 
 <br>
+
+
+## Fun Facts About Me
+- Before college, I had little-to-zero knowledge about programming.  
+- I like casual talking with someone while coding or doing projects.  
+- I learn fastest by experimenting.  
+- I sometimes overthink before writing code.  
+- I retain concepts better when I apply it right away.  
+
+
+<br>
+
 
 ##  Click Below to Connect with Me!   
 
