@@ -6,11 +6,13 @@ layout: default
 
 # FINALS - LABORATORY TASK 3
 **Polymorphism**  
-
+  
+  
 <br>
-
+  
+  
 ### INSTRUCTION
-**PROBLEM. Chirp and Tweet**
+**PROBLEM. Chirp and Tweet**  
 Create a simple program to demonstrate basic polymorphism with bird sounds.
 Class - Bird:
   - Methods:
@@ -32,17 +34,20 @@ Class - BirdCage:
     - **def make_bird_sounds (self, birds: List) -> None**: Accepts a list of Bird objects
 as input. Iterates through the list of birds and calls the **make_sound method** on
 each bird to make its sound.
-
+  
+  
 <br>
-
+  
+  
 ### 💻 Source Code
+  
 #### bird.py
 ```python
 class Bird():
     def make_sound(self):
         pass
 ```
-
+  
 #### sparrow.py
 ```python
 from bird import Bird
@@ -51,7 +56,7 @@ class Sparrow(Bird):
     def make_sound(self):
         print("Chirp Chirp")
 ```
-
+  
 #### parrot.py
 ```python
 from bird import Bird
@@ -60,7 +65,7 @@ class Parrot(Bird):
     def make_sound(self):
         print("Tweet Tweet")
 ```
-
+  
 #### bird_cage.py
 ```python
 from bird import Bird
@@ -79,17 +84,20 @@ birds = [b1, b2]
 c1 = BirdCage()
 c1.make_bird_sound(birds)
 ```
-
+  
+  
 <br>
-
-
+  
+  
 ### 🧾 Sample Output
 <div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
 <pre style="margin:0; white-space:pre;">Chirp Chirp
 Tweet Tweet
 </pre>
   </div>
-
+  
+  
 <br>
-
+  
+  
 ### Go Back To [*Main Page*](https://noeljustine.github.io/7OOP-PORTFOLIO/)
