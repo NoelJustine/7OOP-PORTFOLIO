@@ -6,15 +6,21 @@ layout: default
 
 # MIDTERM - LABORATORY TASK 1
 **Python Fundamentals**  
-  
 * * * 
- 
+  
+  
 <br>
-
-## PROBLEM 1.
+  
+  
+## PROBLEM 1
 Use Appropriate Escape Sequence ( \n, \t \b \ ..etc) for the problem below  
   
+  
+<br>
+  
+  
 ### 💻 Source Code
+  
 ```python
 print("Database Record ") 
 print("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\")
@@ -23,7 +29,12 @@ print("Email:\tjohn.doe@example.com")
 print("University:\tABC University\n")
 ```
   
+  
+<br>
+  
+  
 ### 🧾 Sample Output
+  
 <div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
 <pre style="margin:0; white-space:pre;">Database Record 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
@@ -32,13 +43,20 @@ Email:  john.doe@example.com
 University:     ABC University
 </pre>
   </div>  
-
+  
+  
 <br>
-
+  
+  
 ## PROBLEM 2.
 Using Placeholders for Email Details: Use appropriate type specifiers %s, %d, %f etc... for this task  
   
+  
+<br>
+  
+   
 ### 💻 Source Code
+  
 ```python
 fname = "John" 
 l1="Greeting"
@@ -75,7 +93,12 @@ print("Job: %s" %l12)
 print("Department: %s" %l13)
 ``` 
   
+  
+<br>
+  
+  
 ### 🧾 Sample Output
+  
 <div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
 <pre style="margin:0; white-space:pre;">Dear John, I hope this email find you well.
 I wanted to reach out and say hello.
@@ -97,13 +120,21 @@ Job: Software Engineering
 Department: Engineering
 </pre>
   </div>  
+  
    
 <br>
  
+  
 ## PROBLEM 3.
+  
 Book Reservation; Accept User Input  
   
+  
+<br>
+  
+  
 ### 💻 Source Code
+  
 ```python
 title = input("Enter the book title: ")
 author = input("Enter the author: ")
@@ -121,7 +152,12 @@ print(f"Member ID: {member_id}")
 print(f"Return Date: {return_date}")
 ```
   
+  
+<br>
+  
+  
 ### 🧾 Sample Output
+  
 <div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
 <pre style="margin:0; white-space:pre;">Enter the book title: <span style="color:#00bcd4;">The Shining</span>
 Enter the author: <span style="color:#00bcd4;">Stephen King</span>
@@ -138,13 +174,21 @@ Member ID: 24-0189
 Return Date: 08-30-2025
 </pre>
   </div>  
-
+  
+  
 <br>
-      
+   
+     
 ## PROBLEM 4.
+  
 Day Identifier  
   
+  
+<br>
+  
+  
 ### 💻 Source Code
+  
 ```python
 day = int(input("Enter Day: "))
 if day == 1:
@@ -164,9 +208,13 @@ elif day == 7:
 else:
     print("Invalid Input")
 ```
-  
+ 
+
+<br>
+   
 
 ### 🧾 Sample Output
+  
 <div style="background-color:#1e1e1e; color:#dcdcdc; border:1px solid #333; padding:12px 15px; font-family:'Courier New', monospace; font-size:14px; line-height:1.5; overflow-y:auto;">
 <pre style="margin:0; white-space:pre;">Enter Day: <span style="color:#00bcd4;">1</span>
 Monday</pre>
@@ -189,11 +237,12 @@ Saturday
 Invalid Input
 </pre>
   </div>  
+* * * 
   
-* * *
   
 <br>
 
+  
 ### Go Back To [*Main Page*](https://noeljustine.github.io/7OOP-PORTFOLIO/)
 
  
