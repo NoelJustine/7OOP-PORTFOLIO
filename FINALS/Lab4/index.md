@@ -32,9 +32,9 @@ layout: default
 |European Region	₱ 35 every 2 minutes|European Region		₱ 30 every 2 minutes|  
   
 - Make a program that will Allow the user to **Select Destination Code (between 1 – 4)** using ComboBox widget, A Time Code using radio buttons, And the Duration Of The Call in minutes and output the **TOTAL CHARGE. – Validate user inputs by using TRY EXCEPT block – Only numeric values are accepted.**
-- **Compute Button** should compute for the **TOTAL CHARGE**.
-        - Computations should be based on the table rates shown above. (The total charge is based on Length of Calls, Destination Code and Time Code)
-        - You may use the get() method of the comboBox to capture the selected option in your comboBox
+- **Compute Button** should compute for the **TOTAL CHARGE**.  
+  - Computations should be based on the table rates shown above. (The total charge is based on Length of Calls, Destination Code and Time Code)
+  - You may use the get() method of the comboBox to capture the selected option in your comboBox
 - **Reset Button** should clear the Radio Button Selection and the Text field entries should be cleared as well
 - **About Button** should display a dialog with the message: “Hello I’m your Name”
 - See sample output below:
