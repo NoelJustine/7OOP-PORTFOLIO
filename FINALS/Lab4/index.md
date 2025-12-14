@@ -47,7 +47,7 @@ layout: default
   
 ### 💻 Source Code
   
-python ```
+```python
 from tkinter import *
 import tkinter.ttk as ttk
 class MyWindow:
