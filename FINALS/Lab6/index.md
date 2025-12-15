@@ -44,9 +44,8 @@ Make a screenshot of your output as proof that you were able to configure the pr
 
 ### Step 5
 
-Add the ff: Functions in the GUI . Choose 1 only  
-  
-1. Insert a Label and Text widget that will display the ff: infos:  
+Add the following Functions in the GUI. Choose 1 only  
+**Insert a Label and Text widget** that will display the following infos:  
 - the total Number of Records, 
 - Car Model with the Highest Price, 
 - Total Number of Manual Cars
@@ -60,7 +59,8 @@ Add the ff: Functions in the GUI . Choose 1 only
 Python Files:
 - [main.py](https://drive.google.com/file/d/1_55IZ3Czzr1JL2iq806cuhsKRuLE9hDQ/view?usp=drivesdk)  
 - [connectDB.py](https://drive.google.com/file/d/1F55U7YawdKxutdoRJlQaiSYrtdZvUrCL/view?usp=drivesdk)  
-- [window.py](https://drive.google.com/file/d/1RuKDq61Y_GzKbgyAn5Z88o0l9eqPfqio/view?usp=drivesdk)
+- [window.py](https://drive.google.com/file/d/1RuKDq61Y_GzKbgyAn5Z88o0l9eqPfqio/view?usp=drivesdk)  
+
 SQL File:  
 - [carsDB.sql](https://drive.google.com/file/d/1i0Xc6Mbr99JbFR-jSEJdGfKcQxTYQ7Qy/view?usp=drivesdk)
 
