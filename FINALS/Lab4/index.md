@@ -41,27 +41,28 @@ layout: default
 - **About Button** should display a dialog with the message: “Hello I’m your Name”  
 - See Sample Image below:
 
-<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/sample.jpg" alt="Sample" width="600" height="1200" />
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/sample.jpg" alt="Sample" width="600" height="750" />
+</p>
  
 <br>
   
   
 ### 🧾 Sample Output
 
-<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output1.jpg" alt="Output1" width="600" height="1200" />
+<p align="center">
+<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output1.jpg" alt="Output1" width="600" height="750" />
 
-<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output2.jpg" alt="Output2" width="600" height="1200" />
-
+<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output2.jpg" alt="Output2" width="600" height="750" />
+</p>
 
 <br>
 
 
 ### 💻 Source Code  
+
+Python File - [pythonTkinter.py](https://drive.google.com/file/d/1BN622j0vtZs2uK6seBJC41zTmgX7eeMp/view?usp=drivesdk)  
  
-*Due to no available Window/PC/Laptop,and Mobile Phone as only available device.*  
-*The owner is having a hard time*  
-  
 ``` python
 from tkinter import *
 from tkinter import messagebox
@@ -258,10 +259,6 @@ if __name__ == '__main__':
     window.mainloop()
 
 ```
-
-
-Python File - [pythonTkinter.py](https://drive.google.com/file/d/1BN622j0vtZs2uK6seBJC41zTmgX7eeMp/view?usp=drivesdk)
-
 
 
 <br>
