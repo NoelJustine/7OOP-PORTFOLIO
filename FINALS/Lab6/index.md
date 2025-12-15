@@ -4,8 +4,10 @@ description: "MySQL CRUD Operations in Python Using GUI Tkinter "
 layout: default
 ---
 
-# Finals Lab Task 6. 
+# Finals Lab Task 6
+
 **MySQL CRUD Operations in Python Using GUI Tkinter **  
+
 
 
 <br>
@@ -29,7 +31,7 @@ See the GUI Design of the Demo interface
 
 ### Step 3
 Try the code below: 
-Get the copy of the following files and load in pycharm: 
+Get the copy of the following files and load in pycharm:  
 Link here: [GDrive](https://drive.google.com/drive/folders/1e6Eh55qLAwepf0A_I8GKh70elW6jAxJj?usp=sharing)  
 - connectDb.py 
 - main.py 
@@ -59,6 +61,7 @@ Python Files:
 - [main.py](https://drive.google.com/file/d/1_55IZ3Czzr1JL2iq806cuhsKRuLE9hDQ/view?usp=drivesdk)  
 - [connectDB.py](https://drive.google.com/file/d/1F55U7YawdKxutdoRJlQaiSYrtdZvUrCL/view?usp=drivesdk)  
 - [window.py](https://drive.google.com/file/d/1RuKDq61Y_GzKbgyAn5Z88o0l9eqPfqio/view?usp=drivesdk)
+SQL File:  
 - [carsDB.sql](https://drive.google.com/file/d/1i0Xc6Mbr99JbFR-jSEJdGfKcQxTYQ7Qy/view?usp=drivesdk)
 
 
@@ -70,21 +73,49 @@ Python Files:
 
 <img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab6/Output.jpg" alt="Output" width="900" height="450" />   
 
-<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab6/Add.jpg" width="900" height="450" />  
+
+<br>
+
+
+### Add Record  
 
 <img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab6/Add.jpg" width="900" height="450" />  
+
+
+<br>
+
+
+### Update Record 
 
 <img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab6/update1.jpg" width="900" height="450" />  
 
 <img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab6/update2.jpg" width="900" height="450" />  
 
+
+<br>
+
+
+### Delete Record
+
 <img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab6/delete1.jpg" width="900" height="450" />  
 
 <img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab6/delete2.jpg" width="900" height="450" />  
 
+
+<br>
+
+
+### Search Record
+
 <img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab6/search1.jpg" width="900" height="450" />  
 
 <img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab6/search2.jpg" width="900" height="450" />  
+
+
+<br>
+
+
+### Highest Price
 
 <img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab6/highest.jpg" width="900" height="450" />  
 
