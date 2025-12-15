@@ -11,12 +11,6 @@ layout: default
 <br>
 
 
-**Note:** Write your code following **OOP code construct**, you may use the attached simpleCalc.py program as guide.
-
-
-<br>
-
-
 ## Instruction
 
 **READ AND UNDERSTAND THE PROBLEM FIRST BEFORE DOING THE PROGRAM**  
@@ -24,12 +18,15 @@ layout: default
 - Design the form below  
 - **Problem Statement**: The cost of a long distance is based on the destination, the time of the day was made, as well as the distance of the call. The rates as follow:  
   
+
+<p align="center">
 |DAYTIME CALLS|NIGHTIME CALLS|  
 |:---:|:---:|  
-|American Region  ₱ 50 every 3 minutes|American Region  ₱ 45 every 3 minutes|  
-|Asian Region  ₱30 every 2 minutes|Asian Region  ₱ 27 every 2 minutes|  
-|African Region  ₱ 40 every 3 minutes|African Region  ₱ 36 every 3 minutes|  
-|European Region  ₱ 35 every 2 minutes|European Region  ₱ 30 every 2 minutes|  
+|American Region          ₱ 50 every 3 minutes|American Region          ₱ 45 every 3 minutes|  
+|Asian Region          ₱30 every 2 minutes|Asian Region          ₱ 27 every 2 minutes|  
+|African Region          ₱ 40 every 3 minutes|African Region          ₱ 36 every 3 minutes|  
+|European Region          ₱ 35 every 2 minutes|European Region          ₱ 30 every 2 minutes|  
+</p>
   
 - Make a program that will Allow the user to **Select Destination Code (between 1 – 4)** using ComboBox widget, A Time Code using radio buttons, And the Duration Of The Call in minutes and output the **TOTAL CHARGE.** 
   - Validate user inputs by using TRY EXCEPT block 
@@ -42,7 +39,7 @@ layout: default
 - See Sample Image below:
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/sample.jpg" alt="Sample" width="600" height="750" />
+<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/sample.jpg" alt="Sample" width="420" height="525" />
 </p>
  
 <br>
@@ -51,9 +48,13 @@ layout: default
 ### 🧾 Sample Output
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output1.jpg" alt="Output1" width="600" height="750" />
+<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output1.jpg" alt="Output1" width="420" height="525" />   
 
-<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output2.jpg" alt="Output2" width="600" height="750" />
+
+<br>
+
+
+<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output2.jpg" alt="Output2" width="420" height="526" />
 </p>
 
 <br>
