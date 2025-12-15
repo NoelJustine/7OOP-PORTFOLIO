@@ -128,7 +128,9 @@
     <p>📂 LAB TASK 1 - <a href="FINALS/Lab1/">ENCAPSULATION</a></p>
     <p>📂 LAB TASK 2 - <a href="FINALS/Lab2/">INHERITANCE</a></p>
     <p>📂 LAB TASK 3 - <a href="FINALS/Lab3/">POLYMORPHISM</a></p>
-    <p>📂 LAB TASK 5 - <a href="FINALS/Lab5/">CLI USING MYSQL AND PYTHON</a></p>
+    <p>📂 LAB TASK 4 - <a href="FINALS/Lab4/">CLI USING MYSQL AND PYTHON</a></p>
+    <p>📂 LAB TASK 5 - <a href="FINALS/Lab5/">PYTHON GUI USING TKINTER</a></p>
+    <p>📂 LAB TASK 6 - <a href="FINALS/Lab6/">MYSQL CRUD OPERATIONS IN PYTHON USING GUI TKINTER</a></p>
   </div>
 
 </div>
