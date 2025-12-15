@@ -252,7 +252,12 @@ if __name__ == '__main__':
 ### 🧾 Sample Output
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output1.jpg" alt="Output1" width="500" height="525"/>
+<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output1.jpg" alt="Output1" width="500" height="525"/>   
+  
+  
+<br>  
+  
+  
 <img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output2.jpg" alt="Output2" width="50p" height="525"/>
 </p>
 
