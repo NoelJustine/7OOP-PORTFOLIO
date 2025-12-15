@@ -51,9 +51,9 @@ layout: default
   
 ### 🧾 Sample Output
 
-![Sample Output 1](https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output2.jpg  
+![Sample Output 1](https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output2.jpg)
   
-![Sample Output 2](https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output2.jpg 
+![Sample Output 2](https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output2.jpg)
 
 
 <br>
@@ -61,7 +61,11 @@ layout: default
 
 ### 💻 Source Code  
  
-*(due to no available Window/PC/Laptop,and Mobile Phone as only available device)*
+*Due to no available Window/PC/Laptop,and Mobile Phone as only available device.*  
+*The owner is having a hard time*  
+  
+Python File - [pythonTkinter.py](https://drive.google.com/file/d/1BN622j0vtZs2uK6seBJC41zTmgX7eeMp/view?usp=drivesdk)
+
 
 
 <br>
