@@ -19,14 +19,13 @@ layout: default
 - **Problem Statement**: The cost of a long distance is based on the destination, the time of the day was made, as well as the distance of the call. The rates as follow:  
   
 
-<p align="center">
 |DAYTIME CALLS|NIGHTIME CALLS|  
 |:---:|:---:|  
 |American Region          ₱ 50 every 3 minutes|American Region          ₱ 45 every 3 minutes|  
 |Asian Region          ₱30 every 2 minutes|Asian Region          ₱ 27 every 2 minutes|  
 |African Region          ₱ 40 every 3 minutes|African Region          ₱ 36 every 3 minutes|  
 |European Region          ₱ 35 every 2 minutes|European Region          ₱ 30 every 2 minutes|  
-</p>
+
   
 - Make a program that will Allow the user to **Select Destination Code (between 1 – 4)** using ComboBox widget, A Time Code using radio buttons, And the Duration Of The Call in minutes and output the **TOTAL CHARGE.** 
   - Validate user inputs by using TRY EXCEPT block 
