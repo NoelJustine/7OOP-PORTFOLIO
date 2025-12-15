@@ -51,9 +51,9 @@ layout: default
   
 ### 🧾 Sample Output
 
-![Sample Output 1](FINALS/Lab4/output1.jpg)  
+![Sample Output 1](https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output2.jpg  
   
-![Sample Output 2](FINALS/Lab4/output2.jpg)
+![Sample Output 2](https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output2.jpg 
 
 
 <br>
