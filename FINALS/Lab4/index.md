@@ -39,6 +39,8 @@ layout: default
   - You may use the get() method of the comboBox to capture the selected option in your comboBox
 - **Reset Button** should clear the Radio Button Selection and the Text field entries should be cleared as well
 - **About Button** should display a dialog with the message: “Hello I’m your Name” 
+- See Sample Image below:
+![Sample Output](FINALS/Lab4/sample.jpg)
  
  
 <br>
@@ -46,6 +48,9 @@ layout: default
   
 ### 🧾 Sample Output
 
+![Sample Output 1](FINALS/Lab4/output1.jpg)  
+  
+![Sample Output 2](FINALS/Lab4/output2.jpg)
 
 
 <br>
