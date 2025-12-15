@@ -40,8 +40,11 @@ layout: default
 - **Reset Button** should clear the Radio Button Selection and the Text field entries should be cleared as well
 - **About Button** should display a dialog with the message: “Hello I’m your Name” 
 - See Sample Image below:
-![Sample Output](FINALS/Lab4/sample.jpg)
+![Sample Output](https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/sample.jpg)
  
+
+
+
  
 <br>
   
