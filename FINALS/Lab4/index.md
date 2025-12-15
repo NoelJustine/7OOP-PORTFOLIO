@@ -38,11 +38,7 @@ layout: default
   - Computations should be based on the table rates shown above. (The total charge is based on Length of Calls, Destination Code and Time Code)
   - You may use the get() method of the comboBox to capture the selected option in your comboBox
 - **Reset Button** should clear the Radio Button Selection and the Text field entries should be cleared as well
-- **About Button** should display a dialog with the message: “Hello I’m your Name”
-- See sample output below:
-
-<insert image>
-  
+- **About Button** should display a dialog with the message: “Hello I’m your Name” 
  
  
 <br>
