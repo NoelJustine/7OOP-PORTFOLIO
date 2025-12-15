@@ -38,24 +38,9 @@ layout: default
 - See Sample Image below:
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/sample.jpg" alt="Sample" width="420" height="525" />
+<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/sample.jpg" alt="Sample" width="500" height="525" />
 </p>
  
-<br>
-  
-  
-### 🧾 Sample Output
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output1.jpg" alt="Output1" width="420" height="525" />   
-
-
-<br>
-
-
-<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output2.jpg" alt="Output2" width="420" height="526" />
-</p>
-
 <br>
 
 
@@ -262,6 +247,19 @@ if __name__ == '__main__':
 
 
 <br>
+  
+  
+### 🧾 Sample Output
+
+<p>
+<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output1.jpg" alt="Output1" width="500" height="525" hspace="10" vspace="10/>   
+
+<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output2.jpg" alt="Output2" width="50p" height="525" hspace="10" vspace="10"/>
+</p>
+
+
+<br>
+
 
 
 ### Go Back To [*Main Page*](https://noeljustine.github.io/7OOP-PORTFOLIO/)
