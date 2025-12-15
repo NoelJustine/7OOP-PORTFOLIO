@@ -21,10 +21,10 @@ layout: default
 
 |DAYTIME CALLS|NIGHTIME CALLS|  
 |:---:|:---:|  
-|American Region          ₱ 50 every 3 minutes|American Region          ₱ 45 every 3 minutes|  
-|Asian Region          ₱30 every 2 minutes|Asian Region          ₱ 27 every 2 minutes|  
-|African Region          ₱ 40 every 3 minutes|African Region          ₱ 36 every 3 minutes|  
-|European Region          ₱ 35 every 2 minutes|European Region          ₱ 30 every 2 minutes|  
+|American Region - ₱ 50 every 3 minutes|American Region - ₱ 45 every 3 minutes|  
+|Asian Region - ₱30 every 2 minutes|Asian Region - ₱ 27 every 2 minutes|  
+|African Region - ₱ 40 every 3 minutes|African Region - ₱ 36 every 3 minutes|  
+|European Region - ₱ 35 every 2 minutes|European Region - ₱ 30 every 2 minutes|  
 
   
 - Make a program that will Allow the user to **Select Destination Code (between 1 – 4)** using ComboBox widget, A Time Code using radio buttons, And the Duration Of The Call in minutes and output the **TOTAL CHARGE.** 
@@ -251,10 +251,9 @@ if __name__ == '__main__':
   
 ### 🧾 Sample Output
 
-<p>
-<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output1.jpg" alt="Output1" width="500" height="525" hspace="10" vspace="10/>   
-
-<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output2.jpg" alt="Output2" width="50p" height="525" hspace="10" vspace="10"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output1.jpg" alt="Output1" width="500" height="525"/>
+<img src="https://raw.githubusercontent.com/NoelJustine/7OOP-PORTFOLIO/refs/heads/main/FINALS/Lab4/output2.jpg" alt="Output2" width="50p" height="525"/>
 </p>
 
 
